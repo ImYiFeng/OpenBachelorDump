@@ -811,6 +811,32 @@
             "lockedText": null,
             "canPreview": false
         },
+        "act41side_zone1": {
+            "zoneID": "act41side_zone1",
+            "zoneIndex": 0,
+            "type": "ACTIVITY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "Flickering Shadows",
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "canPreview": false
+        },
+        "act41side_zone2": {
+            "zoneID": "act41side_zone2",
+            "zoneIndex": 1,
+            "type": "ACTIVITY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "Dying Flames",
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "canPreview": false
+        },
         "act40side_zone1": {
             "zoneID": "act40side_zone1",
             "zoneIndex": 0,
@@ -843,6 +869,19 @@
             "type": "ACTIVITY",
             "zoneNameFirst": null,
             "zoneNameSecond": "Farewell, Loved Ones",
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "canPreview": false
+        },
+        "act18mini_zone1": {
+            "zoneID": "act18mini_zone1",
+            "zoneIndex": 0,
+            "type": "ACTIVITY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "Enter City",
             "zoneNameTitleCurrent": null,
             "zoneNameTitleUnCurrent": null,
             "zoneNameTitleEx": null,
@@ -4334,32 +4373,6 @@
             "lockedText": null,
             "canPreview": false
         },
-        "permanent_sidestory_19_zone1": {
-            "zoneID": "permanent_sidestory_19_zone1",
-            "zoneIndex": 0,
-            "type": "SIDESTORY",
-            "zoneNameFirst": null,
-            "zoneNameSecond": "Case Investigation, Onsite",
-            "zoneNameTitleCurrent": null,
-            "zoneNameTitleUnCurrent": null,
-            "zoneNameTitleEx": null,
-            "zoneNameThird": null,
-            "lockedText": null,
-            "canPreview": false
-        },
-        "permanent_sidestory_19_zone2": {
-            "zoneID": "permanent_sidestory_19_zone2",
-            "zoneIndex": 1,
-            "type": "SIDESTORY",
-            "zoneNameFirst": null,
-            "zoneNameSecond": "Criminal Pursuit, Offsite",
-            "zoneNameTitleCurrent": null,
-            "zoneNameTitleUnCurrent": null,
-            "zoneNameTitleEx": null,
-            "zoneNameThird": null,
-            "lockedText": null,
-            "canPreview": false
-        },
         "permanent_sidestory_18_zone1": {
             "zoneID": "permanent_sidestory_18_zone1",
             "zoneIndex": 0,
@@ -4379,6 +4392,32 @@
             "type": "SIDESTORY",
             "zoneNameFirst": null,
             "zoneNameSecond": "Ashes of Memories",
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "canPreview": false
+        },
+        "permanent_sidestory_19_zone1": {
+            "zoneID": "permanent_sidestory_19_zone1",
+            "zoneIndex": 0,
+            "type": "SIDESTORY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "Case Investigation, Onsite",
+            "zoneNameTitleCurrent": null,
+            "zoneNameTitleUnCurrent": null,
+            "zoneNameTitleEx": null,
+            "zoneNameThird": null,
+            "lockedText": null,
+            "canPreview": false
+        },
+        "permanent_sidestory_19_zone2": {
+            "zoneID": "permanent_sidestory_19_zone2",
+            "zoneIndex": 1,
+            "type": "SIDESTORY",
+            "zoneNameFirst": null,
+            "zoneNameSecond": "Criminal Pursuit, Offsite",
             "zoneNameTitleCurrent": null,
             "zoneNameTitleUnCurrent": null,
             "zoneNameTitleEx": null,
@@ -4669,6 +4708,14 @@
         }
     },
     "zoneValidInfo": {
+        "act41side_zone1": {
+            "startTs": 1756382400,
+            "endTs": 1757588399
+        },
+        "act41side_zone2": {
+            "startTs": 1757026800,
+            "endTs": 1757588399
+        },
         "act40side_zone1": {
             "startTs": 1752771600,
             "endTs": 1754564399
@@ -4680,6 +4727,10 @@
         "act40side_zone3": {
             "startTs": 1754002800,
             "endTs": 1754564399
+        },
+        "act18mini_zone1": {
+            "startTs": 1754586000,
+            "endTs": 1755169199
         },
         "act31sre_zone1": {
             "startTs": 1751562000,
@@ -5514,7 +5565,7 @@
             "zoneIndex": 0,
             "startStageId": "main_00-01",
             "endStageId": "main_00-11",
-            "mainlneBgName": "mbg_chapter_0_1",
+            "gameMusicId": "music_3in1bg_main0",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5532,7 +5583,7 @@
             "zoneIndex": 1,
             "startStageId": "main_01-01",
             "endStageId": "main_01-12",
-            "mainlneBgName": "mbg_chapter_0_2",
+            "gameMusicId": "music_3in1bg_main1",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5550,7 +5601,7 @@
             "zoneIndex": 2,
             "startStageId": "tr_11",
             "endStageId": "main_02-10",
-            "mainlneBgName": "mbg_chapter_0_3",
+            "gameMusicId": "music_3in1bg_main2",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5568,7 +5619,7 @@
             "zoneIndex": 3,
             "startStageId": "main_03-01",
             "endStageId": "main_03-08",
-            "mainlneBgName": "mbg_chapter_0_4",
+            "gameMusicId": "music_3in1bg_main3",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5586,7 +5637,7 @@
             "zoneIndex": 0,
             "startStageId": "main_04-01",
             "endStageId": "main_04-10",
-            "mainlneBgName": "mbg_chapter_1_1",
+            "gameMusicId": "music_3in1bg_main4",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5604,7 +5655,7 @@
             "zoneIndex": 1,
             "startStageId": "main_05-01",
             "endStageId": "st_05-01",
-            "mainlneBgName": "mbg_chapter_1_2",
+            "gameMusicId": "music_3in1bg_main5",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5622,7 +5673,7 @@
             "zoneIndex": 2,
             "startStageId": "main_06-01",
             "endStageId": "st_06-03",
-            "mainlneBgName": "mbg_chapter_1_3",
+            "gameMusicId": "music_3in1bg_main6",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5640,7 +5691,7 @@
             "zoneIndex": 3,
             "startStageId": "st_07-01",
             "endStageId": "st_07-04",
-            "mainlneBgName": "mbg_chapter_1_4",
+            "gameMusicId": "music_3in1bg_main7",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5658,7 +5709,7 @@
             "zoneIndex": 4,
             "startStageId": "main_08-01",
             "endStageId": "st_08-06",
-            "mainlneBgName": "mbg_chapter_1_5",
+            "gameMusicId": "music_3in1bg_main8",
             "recapId": "",
             "recapPreStageId": "",
             "buttonName": "",
@@ -5676,7 +5727,7 @@
             "zoneIndex": 0,
             "startStageId": "st_09-01",
             "endStageId": "st_09-04",
-            "mainlneBgName": "mbg_chapter_2_1",
+            "gameMusicId": "music_3in1bg_main9",
             "recapId": "obt/main/level_main_9_chapter_recap",
             "recapPreStageId": "st_08-06",
             "buttonName": "Recap",
@@ -5695,7 +5746,7 @@
             "zoneIndex": 1,
             "startStageId": "st_10-01",
             "endStageId": "st_10-04",
-            "mainlneBgName": "mbg_chapter_2_2",
+            "gameMusicId": "music_3in1bg_main10",
             "recapId": "obt/main/main_10_zone_enter",
             "recapPreStageId": "st_09-04",
             "buttonName": "Watch Prelude",
@@ -5715,7 +5766,7 @@
             "zoneIndex": 2,
             "startStageId": "easy_11-01",
             "endStageId": "st_11-03",
-            "mainlneBgName": "mbg_chapter_2_3",
+            "gameMusicId": "music_3in1bg_main11",
             "recapId": "obt/main/main_11_zone_enter",
             "recapPreStageId": "st_10-04",
             "buttonName": "Watch Prelude",
@@ -5735,7 +5786,7 @@
             "zoneIndex": 3,
             "startStageId": "st_12-01",
             "endStageId": "st_12-03",
-            "mainlneBgName": "mbg_chapter_2_4",
+            "gameMusicId": "music_3in1bg_main12",
             "recapId": "obt/main/main_12_zone_enter",
             "recapPreStageId": "st_11-03",
             "buttonName": "Watch Prelude",
@@ -5755,7 +5806,7 @@
             "zoneIndex": 4,
             "startStageId": "st_13-01",
             "endStageId": "st_13-03",
-            "mainlneBgName": "mbg_chapter_2_5",
+            "gameMusicId": "music_3in1bg_main13",
             "recapId": "",
             "recapPreStageId": "st_12-03",
             "buttonName": "",
@@ -5775,7 +5826,7 @@
             "zoneIndex": 5,
             "startStageId": "st_14-01",
             "endStageId": "st_14-03",
-            "mainlneBgName": "mbg_chapter_2_6",
+            "gameMusicId": "music_3in1bg_main14",
             "recapId": "",
             "recapPreStageId": "st_13-03",
             "buttonName": "",
@@ -7947,6 +7998,23 @@
             "hard_13-04"
         ]
     },
+    "mainlineZoneIdList": [
+        "main_0",
+        "main_1",
+        "main_2",
+        "main_3",
+        "main_4",
+        "main_5",
+        "main_6",
+        "main_7",
+        "main_8",
+        "main_9",
+        "main_10",
+        "main_11",
+        "main_12",
+        "main_13",
+        "main_14"
+    ],
     "zoneMetaData": {
         "ZoneRecordMissionData": {
             "tough_12-06": {
