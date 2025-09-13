@@ -303951,6 +303951,372 @@
             }
         ]
     },
+    "sktok_muulwr_1": {
+        "skillId": "sktok_muulwr_1",
+        "iconId": "sktok_muulwr",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Armor Up!",
+                "rangeId": null,
+                "description": "For <@ba.vup>{shield_duration}</>s after deployment, all Operators on the field gain <@ba.vup>{dynamic}</> Barrier",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_muulwr_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "dynamic",
+                        "value": 6000.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "shield_duration",
+                        "value": 20.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_muulas_1": {
+        "skillId": "sktok_muulas_1",
+        "iconId": "sktok_muulas",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Look! Fireworks!",
+                "rangeId": null,
+                "description": "After deployment, all enemies take <@ba.vup>{damage}</> damage, and all Operators waiting to be redeployed <@ba.vup>have their Redeployment Time reduced to 0</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_muulas_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "damage",
+                        "value": 3000.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "remaining_respawn_time",
+                        "value": 0.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_muulrg_1": {
+        "skillId": "sktok_muulrg_1",
+        "iconId": "sktok_muulrg",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "MEEEEOW!",
+                "rangeId": null,
+                "description": "For <@ba.vup>{buff_duration}</>s after deployment, all Operators on the field have their DEF and RES <@ba.vdown>reduced to 0</>, but ASPD <@ba.vup>+{attack_speed}</>",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_muulrg_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "buff_duration",
+                        "value": 10.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "def",
+                        "value": 0.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "magic_resistance",
+                        "value": 0.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack_speed",
+                        "value": 120.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_muulcl_1": {
+        "skillId": "sktok_muulcl_1",
+        "iconId": "sktok_muulcl",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Chug 'Em All!",
+                "rangeId": null,
+                "description": "After deployment, randomly throws soda bottles at Operators; struck Operators gain <@ba.vup>3</> SP",
+                "skillType": "AUTO",
+                "durationType": "AMMO",
+                "spData": {
+                    "spType": "INCREASE_WITH_TIME",
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 1.0
+                },
+                "prefabId": "sktok_muulcl_1",
+                "duration": 20.0,
+                "blackboard": [
+                    {
+                        "key": "attack@sp",
+                        "value": 3.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@max_target",
+                        "value": 3.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_muulco_1": {
+        "skillId": "sktok_muulco_1",
+        "iconId": "sktok_muulco",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Go Team Go!",
+                "rangeId": null,
+                "description": "For <@ba.vup>{buff_duration}</>s after deployment, all Operators on the field gain <@ba.vup>+{atk:0%}</> ATK",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_muulco_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "atk",
+                        "value": 0.2,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "buff_duration",
+                        "value": 10.0,
+                        "valueStr": null
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_mufrprn_1": {
+        "skillId": "sktok_mufrprn_1",
+        "iconId": "sktok_mufrprn",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Help Me!",
+                "rangeId": "x-2",
+                "description": "Can rescue the trapped <@ba.vup>Expert Facility Builders</> by defeating the surrounding guards",
+                "skillType": "PASSIVE",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 0,
+                    "spCost": 0,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_mufrprn_1",
+                "duration": -1.0,
+                "blackboard": [
+                    {
+                        "key": "attack@cnt",
+                        "value": 1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "taunt_level",
+                        "value": -1.0,
+                        "valueStr": null
+                    },
+                    {
+                        "key": "attack@token_key",
+                        "value": 0.0,
+                        "valueStr": "trap_202_muworkg"
+                    },
+                    {
+                        "key": "attack@range_id",
+                        "value": 0.0,
+                        "valueStr": "x-2"
+                    },
+                    {
+                        "key": "range_id",
+                        "value": 0.0,
+                        "valueStr": "x-2"
+                    }
+                ]
+            }
+        ]
+    },
+    "sktok_mufrfm": {
+        "skillId": "sktok_mufrfm",
+        "iconId": "sktok_mufrtm",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Construction Workshop",
+                "rangeId": null,
+                "description": "Once built to Level 1/2/3, the amount of <@ba.vup>Facility Builders</> you gain at the start of each wave increases to 1/2/3",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 100,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_multi_upgrade",
+                "duration": 1.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_mufrbk": {
+        "skillId": "sktok_mufrbk",
+        "iconId": "sktok_mufrbk",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Recuperation Pod",
+                "rangeId": null,
+                "description": "Once built to Level 1/2/3, <@ba.vup>Deployment Limit</> increases to 1/2/3\nAt Level 3, Operators' Redeployment Time -20%",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 100,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_multi_upgrade",
+                "duration": 1.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_mufrwl": {
+        "skillId": "sktok_mufrwl",
+        "iconId": "sktok_mufrwl",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Hydraulic Platform",
+                "rangeId": null,
+                "description": "Changes enemy pathing once constructed, and you can deploy Ranged Operators on it\nUpgrading increases HP; at Level 3, Operators deployed on it have +50 ASPD",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 100,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_multi_upgrade",
+                "duration": 1.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_mufrst": {
+        "skillId": "sktok_mufrst",
+        "iconId": "sktok_mufrst",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Concrete Roadblock",
+                "rangeId": null,
+                "description": "Becomes roadblocks that block enemies once constructed\nUpgrading increases HP; at Level 3, explodes and damages surrounding enemies when destroyed",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 100,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_multi_upgrade",
+                "duration": 1.0,
+                "blackboard": []
+            }
+        ]
+    },
+    "sktok_mufrbs": {
+        "skillId": "sktok_mufrbs",
+        "iconId": "sktok_mufrbs",
+        "hidden": false,
+        "levels": [
+            {
+                "name": "Portable Exercise Rack",
+                "rangeId": null,
+                "description": "<@ba.vup>Increases the Max HP</> of all Operators once constructed\nUpgrading to Level 2/3 will also increase ATK and SP recovery for all Operators",
+                "skillType": "AUTO",
+                "durationType": "NONE",
+                "spData": {
+                    "spType": 8,
+                    "levelUpCost": null,
+                    "maxChargeTime": 1,
+                    "spCost": 100,
+                    "initSp": 0,
+                    "increment": 0.0
+                },
+                "prefabId": "sktok_multi_upgrade",
+                "duration": 1.0,
+                "blackboard": []
+            }
+        ]
+    },
     "sktok_cjgtow_1": {
         "skillId": "sktok_cjgtow_1",
         "iconId": null,

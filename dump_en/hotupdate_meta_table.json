@@ -120,6 +120,17 @@
             "picType": "SKIN",
             "logoId": "epoque_42",
             "color": null
+        },
+        {
+            "picId": "pic59_s_2",
+            "groupId": 4,
+            "sortId": 3,
+            "startTime": 1757005200,
+            "endTime": 1758041999,
+            "textList": null,
+            "picType": "SKIN",
+            "logoId": "epoque_42",
+            "color": null
         }
     ],
     "movieInfo": null

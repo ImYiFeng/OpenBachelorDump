@@ -392378,6 +392378,2277 @@
         "minPowerId": "none",
         "maxPowerId": "none"
     },
+    "trap_197_muulwr": {
+        "name": "Protective Gear Giver",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Advanced Facility Builder",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_197_muulwr",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_muulwr_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_198_muulas": {
+        "name": "Chaotic Fireworks",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Piles of Clutter",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_198_muulas",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_muulas_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_199_muulrg": {
+        "name": "Beastmode Energy Drink",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Meowster Energy Drink",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_199_muulrg",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 100,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 100,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_muulrg_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_200_muulcl": {
+        "name": "Soda Dispenser",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Broken Vending Machine",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_200_muulcl",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 0.2,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 0.2,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_muulcl_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_201_muulco": {
+        "name": "Cheerleader",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Sportsfield Cheerleader",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_201_muulco",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 60,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_muulco_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_202_muworkg": {
+        "name": "Expert Facility Builder",
+        "description": "Increases the level of the <Construct> in front of it; can only be used during the <break>",
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Advanced Facility Builder",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": {
+            "candidates": [
+                {
+                    "unlockCondition": {
+                        "phase": "PHASE_0",
+                        "level": 1
+                    },
+                    "requiredPotentialRank": 0,
+                    "blackboard": [
+                        {
+                            "key": "fortress_fixer",
+                            "value": 1.0,
+                            "valueStr": null
+                        }
+                    ],
+                    "overrideDescripton": null,
+                    "prefabKey": null,
+                    "rangeId": null,
+                    "additionalDesc": ""
+                }
+            ]
+        },
+        "phases": [
+            {
+                "characterPrefabKey": "trap_202_muworkg",
+                "rangeId": "1-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 100,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 0,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 100,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 0,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "1",
+                        "name": null,
+                        "description": "Works on a <Material Box> on the tile in front when deployed, allowing it to take effect once construction is complete; works for a long time",
+                        "rangeId": "1-1",
+                        "blackboard": [
+                            {
+                                "key": "duration",
+                                "value": 20.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": false,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_203_mufrprn": {
+        "name": "Collapsed Junk Pile",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Piles of Clutter",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_203_mufrprn",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 0,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 100,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 0,
+                            "blockCnt": 0,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrprn_1",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": null,
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_205_mufrfm": {
+        "name": "Construction Workshop",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Construction Toolroom",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_205_mufrfm",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrfm",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m0",
+                        "name": null,
+                        "description": "Once construction is complete, gives extra Facility Builders at the start of each wave",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 10.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m1",
+                        "name": null,
+                        "description": "Gives extra Facility Builders at the start of each wave",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 10.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "token_key",
+                                "value": 0.0,
+                                "valueStr": "trap_166_muwork"
+                            },
+                            {
+                                "key": "cnt",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m2",
+                        "name": null,
+                        "description": "Gives even more Facility Builders at the start of each wave",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 15.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "token_key",
+                                "value": 0.0,
+                                "valueStr": "trap_166_muwork"
+                            },
+                            {
+                                "key": "cnt",
+                                "value": 2.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m3",
+                        "name": null,
+                        "description": "Gives even more Facility Builders at the start of each wave, and increases Builder construction speed",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 100.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "token_key",
+                                "value": 0.0,
+                                "valueStr": "trap_166_muwork"
+                            },
+                            {
+                                "key": "cnt",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "attack_speed",
+                                "value": 0.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_206_mufrbk": {
+        "name": "Recuperation Pod",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Nap Pod",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_206_mufrbk",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrbk",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m0",
+                        "name": null,
+                        "description": "Once construction is complete, increases Operator Deployment Limit",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 15.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m1",
+                        "name": null,
+                        "description": "Increases Operator Deployment Limit",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 20.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "value_char",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m2",
+                        "name": null,
+                        "description": "Increases Operator Deployment Limit further",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 50.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "value_char",
+                                "value": 2.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m3",
+                        "name": null,
+                        "description": "Increases Operator Deployment Limit further, and greatly reduces Operator Redeployment Time",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 100.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "value_char",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "respawn_time",
+                                "value": -0.2,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_207_mufrwl": {
+        "name": "Hydraulic Platform",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Lifting Platform",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_207_mufrwl",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrwl",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m0",
+                        "name": null,
+                        "description": "Once construction is complete, becomes a Hydraulic Platform that Ranged Operators can be deployed on",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 10.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m1",
+                        "name": null,
+                        "description": "A Hydraulic Platform that Ranged Operators can be deployed on",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 15.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m2",
+                        "name": null,
+                        "description": "A Hydraulic Platform with extra HP that Ranged Operators can be deployed on",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 20.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 2.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m3",
+                        "name": null,
+                        "description": "A Hydraulic Platform with extra HP that Ranged Operators can be deployed on, and increases the ASPD of the deployed Operator",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 100.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "attack_speed",
+                                "value": 50.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 2.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_208_mufrst": {
+        "name": "Concrete Roadblock",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Concrete Roadblock",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_208_mufrst",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 4000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 4000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrst",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m0",
+                        "name": null,
+                        "description": "Once construction is complete, becomes a Concrete Roadblock that can block enemies",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 5.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m1",
+                        "name": null,
+                        "description": "A Concrete Roadblock that can block enemies",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 10.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m2",
+                        "name": null,
+                        "description": "A Concrete Roadblock with extra HP that can block enemies",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 15.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 2.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m3",
+                        "name": null,
+                        "description": "A Concrete Roadblock with extra HP that can block enemies, and explodes and damages all surrounding enemies when destroyed",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "max_hp",
+                                "value": 2.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "boom",
+                        "name": null,
+                        "description": null,
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "damage",
+                                "value": 20000.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
+    "trap_209_mufrbs": {
+        "name": "Portable Exercise Rack",
+        "description": null,
+        "canUseGeneralPotentialItem": true,
+        "canUseActivityPotentialItem": false,
+        "potentialItemId": null,
+        "activityPotentialItemId": null,
+        "nationId": null,
+        "groupId": null,
+        "teamId": null,
+        "displayNumber": null,
+        "appellation": "Workout Station",
+        "position": "NONE",
+        "tagList": null,
+        "itemUsage": null,
+        "itemDesc": null,
+        "itemObtainApproach": null,
+        "isNotObtainable": false,
+        "isSpChar": false,
+        "maxPotentialLevel": 0,
+        "rarity": "TIER_1",
+        "profession": "TRAP",
+        "subProfessionId": "notchar2",
+        "trait": null,
+        "phases": [
+            {
+                "characterPrefabKey": "trap_209_mufrbs",
+                "rangeId": "0-1",
+                "maxLevel": 30,
+                "attributesKeyFrames": [
+                    {
+                        "level": 1,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    },
+                    {
+                        "level": 30,
+                        "data": {
+                            "maxHp": 5000,
+                            "atk": 0,
+                            "def": 0,
+                            "magicResistance": 0.0,
+                            "cost": 5,
+                            "blockCnt": 3,
+                            "moveSpeed": 1.0,
+                            "attackSpeed": 100.0,
+                            "baseAttackTime": 1.0,
+                            "respawnTime": 5,
+                            "hpRecoveryPerSec": 0.0,
+                            "spRecoveryPerSec": 1.0,
+                            "maxDeployCount": 99,
+                            "maxDeckStackCnt": 99,
+                            "tauntLevel": -1,
+                            "massLevel": 0,
+                            "baseForceLevel": 0,
+                            "stunImmune": false,
+                            "silenceImmune": false,
+                            "sleepImmune": false,
+                            "frozenImmune": false,
+                            "levitateImmune": false,
+                            "disarmedCombatImmune": false,
+                            "fearedImmune": false
+                        }
+                    }
+                ],
+                "evolveCost": null
+            }
+        ],
+        "skills": [
+            {
+                "skillId": "sktok_mufrbs",
+                "overridePrefabKey": null,
+                "overrideTokenKey": null,
+                "levelUpCostCond": [],
+                "unlockCond": {
+                    "phase": "PHASE_0",
+                    "level": 1
+                }
+            }
+        ],
+        "talents": [
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m0",
+                        "name": null,
+                        "description": "Once construction is complete, increases the stats of all Operators",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 15.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m1",
+                        "name": null,
+                        "description": "Increases HP of all Operators",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 30.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 0.25,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m2",
+                        "name": null,
+                        "description": "Additionally increases ATK of all Operators",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 50.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 0.3,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "atk",
+                                "value": 0.15,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            },
+            {
+                "candidates": [
+                    {
+                        "unlockCondition": {
+                            "phase": "PHASE_0",
+                            "level": 1
+                        },
+                        "requiredPotentialRank": 0,
+                        "prefabKey": "m3",
+                        "name": null,
+                        "description": "Additionally increases SP recovery of all Operators",
+                        "rangeId": null,
+                        "blackboard": [
+                            {
+                                "key": "sp",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp2",
+                                "value": 3.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "cost",
+                                "value": 100.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "max_hp",
+                                "value": 0.5,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "hp_ratio",
+                                "value": 1.0,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "atk",
+                                "value": 0.2,
+                                "valueStr": null
+                            },
+                            {
+                                "key": "sp_recovery_per_sec",
+                                "value": 1.0,
+                                "valueStr": null
+                            }
+                        ],
+                        "isHideTalent": true,
+                        "displayRange": false
+                    }
+                ]
+            }
+        ],
+        "potentialRanks": [],
+        "favorKeyFrames": null,
+        "allSkillLvlup": [],
+        "minPowerId": "none",
+        "maxPowerId": "none"
+    },
     "trap_210_arcgrg": {
         "name": "Amphibious Dock",
         "description": null,
