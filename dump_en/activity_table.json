@@ -1,5 +1,110 @@
 {
     "basicInfo": {
+        "act2access": {
+            "id": "act2access",
+            "type": "CHECKIN_ACCESS",
+            "name": "Recommended Monthly Card",
+            "startTime": 1759921200,
+            "endTime": 1763031599,
+            "rewardEndTime": 1763031599,
+            "displayOnHome": false,
+            "hasStage": false,
+            "templateShopId": null,
+            "medalGroupId": null,
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "CAN_COMPLETE",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act33sre": {
+            "id": "act33sre",
+            "type": "TYPE_ACT9D0",
+            "displayType": "SIDESTORY",
+            "name": "Babel - Rerun",
+            "startTime": 1759251600,
+            "endTime": 1760093999,
+            "rewardEndTime": 1760439599,
+            "displayOnHome": true,
+            "hasStage": true,
+            "templateShopId": "shop_act33sre",
+            "medalGroupId": "medalGroupActivity33side",
+            "isReplicate": true,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "SPECIAL",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [],
+            "usePicGroup": false
+        },
+        "act2mainss": {
+            "id": "act2mainss",
+            "type": "TYPE_MAINSS",
+            "name": "Dissociative Recombination",
+            "startTime": 1758042000,
+            "endTime": 1759229999,
+            "rewardEndTime": 1759834799,
+            "displayOnHome": true,
+            "hasStage": true,
+            "templateShopId": "shop_act2mainss",
+            "medalGroupId": null,
+            "ungroupedMedalIds": [
+                "medal_stage_normal_23",
+                "medal_stage_normal_24",
+                "medal_stage_sixstar_01",
+                "medal_stage_hard_11",
+                "medal_stage_sixstarpoint_01"
+            ],
+            "isReplicate": false,
+            "needFixedSync": false,
+            "trapDomainId": null,
+            "recType": "SPECIAL",
+            "isPageEntry": false,
+            "isMagnify": false,
+            "picGroup": [
+                {
+                    "sortIndex": 1,
+                    "picId": "act2mainss_1",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759834799,
+                        "type": "NONE",
+                        "rate": -1.0
+                    }
+                },
+                {
+                    "sortIndex": 2,
+                    "picId": "act2mainss_2",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759834799,
+                        "type": "STAGECLEAR",
+                        "rate": -1.0,
+                        "stageUnlockParam": {
+                            "stageId": "main_15-10"
+                        }
+                    }
+                },
+                {
+                    "sortIndex": 3,
+                    "picId": "act2mainss_3",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759834799,
+                        "type": "STAGECLEAR",
+                        "rate": -1.0,
+                        "stageUnlockParam": {
+                            "stageId": "main_15-18"
+                        }
+                    }
+                }
+            ],
+            "usePicGroup": true
+        },
         "act1multi": {
             "id": "act1multi",
             "type": "MULTIPLAY_V3",
@@ -4544,6 +4649,13 @@
         }
     },
     "homeActConfig": {
+        "act2access": {
+            "actId": "act2access",
+            "isPopupAfterCheckin": false,
+            "showTopBarMenu": true,
+            "actTopBarColor": "b20030",
+            "actTopBarText": "Recommended Monthly Card"
+        },
         "act3collection": {
             "actId": "act3collection",
             "isPopupAfterCheckin": false,
@@ -5316,6 +5428,10 @@
         }
     },
     "zoneToActivity": {
+        "act33sre_zone1": "act33sre",
+        "act33sre_zone2": "act33sre",
+        "act33sre_zone3": "act33sre",
+        "act2mainss_zone1": "act2mainss",
         "act1multi_zone1": "act1multi",
         "act41side_zone1": "act41side",
         "act41side_zone2": "act41side",
@@ -5533,6 +5649,1288 @@
     },
     "actTimeTrackPoint": {},
     "missionData": [
+        {
+            "id": "33sreActivity_1",
+            "sortId": 1,
+            "description": "Clear BB-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_01",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 50
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_2",
+            "sortId": 2,
+            "description": "Clear BB-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_02",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 50
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_shortstick_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_3",
+            "sortId": 3,
+            "description": "Clear BB-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_03",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 50
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_ironbasket_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_4",
+            "sortId": 4,
+            "description": "Clear BB-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_04",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_longstick_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_5",
+            "sortId": 5,
+            "description": "Clear BB-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_05",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                },
+                {
+                    "type": "CHAR",
+                    "id": "char_4131_odda",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_6",
+            "sortId": 6,
+            "description": "Clear BB-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_06",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_shortstick_02",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_7",
+            "sortId": 7,
+            "description": "Clear BB-6 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_06",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_8",
+            "sortId": 8,
+            "description": "Clear BB-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_07",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 100
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_carbonfirebox_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_9",
+            "sortId": 9,
+            "description": "Clear BB-7 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_07",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_stool_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_10",
+            "sortId": 10,
+            "description": "Clear BB-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_08",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 120
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_ironcabinet_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_11",
+            "sortId": 11,
+            "description": "Clear BB-8 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_08",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_carpet_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_12",
+            "sortId": 12,
+            "description": "Clear BB-9",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_09",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 120
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_bench_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_13",
+            "sortId": 13,
+            "description": "Clear BB-10",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_10",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 120
+                },
+                {
+                    "type": "FURN",
+                    "id": "furni_ScarMarket_shoerack_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_14",
+            "sortId": 14,
+            "description": "Clear BB-10 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_10",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "MATERIAL",
+                    "id": "mod_unlock_token",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_15",
+            "sortId": 15,
+            "description": "Clear BB-EX-1",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex01",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_16",
+            "sortId": 16,
+            "description": "Clear BB-EX-2",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex02",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_17",
+            "sortId": 17,
+            "description": "Clear BB-EX-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex03",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_18",
+            "sortId": 18,
+            "description": "Clear BB-EX-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex04",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_19",
+            "sortId": 19,
+            "description": "Clear BB-EX-5",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex05",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_20",
+            "sortId": 20,
+            "description": "Clear BB-EX-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex06",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_21",
+            "sortId": 21,
+            "description": "Clear BB-EX-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex07",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_22",
+            "sortId": 22,
+            "description": "Clear BB-EX-8",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex08",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_23",
+            "sortId": 23,
+            "description": "Clear BB-EX-8 Challenge Mode",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_ex08#f#",
+                "1",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "FURN",
+                    "id": "furni_terracommericials_CoffeePlainsCoffeeCandy_01",
+                    "count": 1
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_24",
+            "sortId": 24,
+            "description": "Clear BB-S-1 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_s01",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_25",
+            "sortId": 25,
+            "description": "Clear BB-S-2 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_s02",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_26",
+            "sortId": 26,
+            "description": "Clear BB-S-3 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_s03",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_27",
+            "sortId": 27,
+            "description": "Clear BB-S-4 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_s04",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 60
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_28",
+            "sortId": 28,
+            "description": "Clear BB-MO-1 with a 3-star rating",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "1",
+            "param": [
+                "1",
+                "act33side_mo01",
+                "1",
+                "3"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_29",
+            "sortId": 29,
+            "description": "Clear event stages 10 times, not including tutorial stages.",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act33side_01^act33side_02^act33side_03^act33side_04^act33side_05^act33side_06^act33side_07^act33side_08^act33side_09^act33side_10^act33side_ex01^act33side_ex01#f#^act33side_ex02^act33side_ex02#f#^act33side_ex03^act33side_ex03#f#^act33side_ex04^act33side_ex04#f#^act33side_ex05^act33side_ex05#f#^act33side_ex06^act33side_ex06#f#^act33side_ex07^act33side_ex07#f#^act33side_ex08^act33side_ex08#f#^act33side_s01^act33side_s02^act33side_s03^act33side_s04^act33side_s01#f#^act33side_s02#f#^act33side_s03#f#^act33side_s04#f#",
+                "10"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 80
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_30",
+            "sortId": 30,
+            "description": "Clear event stages 25 times, not including tutorial stages.",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act33side_01^act33side_02^act33side_03^act33side_04^act33side_05^act33side_06^act33side_07^act33side_08^act33side_09^act33side_10^act33side_ex01^act33side_ex01#f#^act33side_ex02^act33side_ex02#f#^act33side_ex03^act33side_ex03#f#^act33side_ex04^act33side_ex04#f#^act33side_ex05^act33side_ex05#f#^act33side_ex06^act33side_ex06#f#^act33side_ex07^act33side_ex07#f#^act33side_ex08^act33side_ex08#f#^act33side_s01^act33side_s02^act33side_s03^act33side_s04^act33side_s01#f#^act33side_s02#f#^act33side_s03#f#^act33side_s04#f#",
+                "25"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 100
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "33sreActivity_31",
+            "sortId": 31,
+            "description": "Clear event stages 40 times, not including tutorial stages.",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteStageAct",
+            "templateType": "0",
+            "param": [
+                "0",
+                "act33side_01^act33side_02^act33side_03^act33side_04^act33side_05^act33side_06^act33side_07^act33side_08^act33side_09^act33side_10^act33side_ex01^act33side_ex01#f#^act33side_ex02^act33side_ex02#f#^act33side_ex03^act33side_ex03#f#^act33side_ex04^act33side_ex04#f#^act33side_ex05^act33side_ex05#f#^act33side_ex06^act33side_ex06#f#^act33side_ex07^act33side_ex07#f#^act33side_ex08^act33side_ex08#f#^act33side_s01^act33side_s02^act33side_s03^act33side_s04^act33side_s01#f#^act33side_s02#f#^act33side_s03#f#^act33side_s04#f#",
+                "40"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act33sre",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act33side_token_sugar_rep_1",
+                    "count": 120
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false
+        },
+        {
+            "id": "act2mainssActivity_1",
+            "sortId": 1,
+            "description": "Clear 15-3",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-02^main_15-02#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_2",
+            "sortId": 2,
+            "description": "Clear 15-4",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-03^main_15-03#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_3",
+            "sortId": 3,
+            "description": "Clear 15-6",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-05^main_15-05#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_4",
+            "sortId": 4,
+            "description": "Clear 15-7",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-06^main_15-06#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_5",
+            "sortId": 5,
+            "description": "Clear 15-9",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-08^main_15-08#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_6",
+            "sortId": 6,
+            "description": "Clear 15-12",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-11^main_15-11#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_7",
+            "sortId": 7,
+            "description": "Clear 15-13",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-12^main_15-12#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_8",
+            "sortId": 8,
+            "description": "Clear 15-17",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-15^main_15-15#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
+        {
+            "id": "act2mainssActivity_9",
+            "sortId": 9,
+            "description": "Clear 15-18",
+            "type": "ACTIVITY",
+            "itemBgType": "COMMON",
+            "preMissionIds": null,
+            "template": "CompleteAnyStage",
+            "templateType": "0",
+            "param": [
+                "0",
+                "main_15-16^main_15-16#s",
+                "2"
+            ],
+            "unlockCondition": null,
+            "unlockParam": null,
+            "missionGroup": "act2mainss",
+            "toPage": null,
+            "periodicalPoint": 0,
+            "rewards": [
+                {
+                    "type": "ACTIVITY_ITEM",
+                    "id": "act2mainss_token",
+                    "count": 40
+                }
+            ],
+            "backImagePath": null,
+            "foldId": null,
+            "haveSubMissionToUnlock": false,
+            "countEndTs": 1759229999
+        },
         {
             "id": "act1multiActivity_normal_01",
             "sortId": 11,
@@ -82814,6 +84212,70 @@
     ],
     "missionGroup": [
         {
+            "id": "act33sre",
+            "title": null,
+            "type": "ACTIVITY",
+            "preMissionGroup": null,
+            "period": null,
+            "rewards": [],
+            "missionIds": [
+                "33sreActivity_1",
+                "33sreActivity_2",
+                "33sreActivity_3",
+                "33sreActivity_4",
+                "33sreActivity_5",
+                "33sreActivity_6",
+                "33sreActivity_7",
+                "33sreActivity_8",
+                "33sreActivity_9",
+                "33sreActivity_10",
+                "33sreActivity_11",
+                "33sreActivity_12",
+                "33sreActivity_13",
+                "33sreActivity_14",
+                "33sreActivity_15",
+                "33sreActivity_16",
+                "33sreActivity_17",
+                "33sreActivity_18",
+                "33sreActivity_19",
+                "33sreActivity_20",
+                "33sreActivity_21",
+                "33sreActivity_22",
+                "33sreActivity_23",
+                "33sreActivity_24",
+                "33sreActivity_25",
+                "33sreActivity_26",
+                "33sreActivity_27",
+                "33sreActivity_28",
+                "33sreActivity_29",
+                "33sreActivity_30",
+                "33sreActivity_31"
+            ],
+            "startTs": 1759251600,
+            "endTs": 1760439599
+        },
+        {
+            "id": "act2mainss",
+            "title": null,
+            "type": "ACTIVITY",
+            "preMissionGroup": null,
+            "period": null,
+            "rewards": [],
+            "missionIds": [
+                "act2mainssActivity_1",
+                "act2mainssActivity_2",
+                "act2mainssActivity_3",
+                "act2mainssActivity_4",
+                "act2mainssActivity_5",
+                "act2mainssActivity_6",
+                "act2mainssActivity_7",
+                "act2mainssActivity_8",
+                "act2mainssActivity_9"
+            ],
+            "startTs": 1758042000,
+            "endTs": 1759834799
+        },
+        {
             "id": "act1multi",
             "title": null,
             "type": "ACTIVITY",
@@ -109420,6 +110882,37 @@
             }
         },
         "TYPE_ACT9D0": {
+            "act33sre": {
+                "tokenItemId": "act33side_token_sugar_rep_1",
+                "zoneDescList": {
+                    "act33sre_zone1": {
+                        "zoneId": "act33sre_zone1",
+                        "unlockText": "Locked",
+                        "displayStartTime": 1759251600
+                    },
+                    "act33sre_zone2": {
+                        "zoneId": "act33sre_zone2",
+                        "unlockText": "Unlocked after completing 'You the Future, Take My Gifts'",
+                        "displayStartTime": 1759251600
+                    },
+                    "act33sre_zone3": {
+                        "zoneId": "act33sre_zone3",
+                        "unlockText": "Unlocked after completing 'You the Future, Take My Gifts'",
+                        "displayStartTime": 1759251600
+                    }
+                },
+                "favorUpList": {},
+                "subMissionInfo": null,
+                "hasSubMission": false,
+                "apSupplyOutOfDateDict": {},
+                "newsInfoList": null,
+                "newsServerInfoList": null,
+                "miscHub": {},
+                "constData": {
+                    "campaignEnemyCnt": 200,
+                    "campaignStageId": "act33side_mo01"
+                }
+            },
             "act41side": {
                 "tokenItemId": "act41side_token_light",
                 "zoneDescList": {
@@ -199399,7 +200892,15 @@
                 }
             }
         },
-        "TYPE_MAINSS": {},
+        "TYPE_MAINSS": {
+            "act2mainss": {
+                "zoneAdditionDataMap": {
+                    "act2mainss_zone1": {
+                        "unlockTip": "Reach <color=#d51c47>3-8</color> to continue playing"
+                    }
+                }
+            }
+        },
         "ENEMY_DUEL": {}
     },
     "extraData": {
@@ -199421,6 +200922,12 @@
         }
     },
     "activityItems": {
+        "act33sre": [
+            "act33side_token_sugar_rep_1"
+        ],
+        "act2mainss": [
+            "act2mainss_token"
+        ],
         "act1multi": [
             "act1multi_token_cap"
         ],
@@ -199835,6 +201342,10 @@
         "act11d7": [
             1611154800,
             1612004399
+        ],
+        "act33sre": [
+            1759251600,
+            1760093999
         ],
         "act41side": [
             1756382400,
@@ -201969,6 +203480,32 @@
             },
             "apSupplyOutOfDateDict": {
                 "ap_supply_lt_120": 1724669999
+            }
+        },
+        "act2access": {
+            "apSupplyOutOfDateDict": {
+                "ap_supply_lt_80": 1763377199
+            },
+            "rewardItemPerDay": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                },
+                {
+                    "id": "ap_supply_lt_80",
+                    "count": 1,
+                    "type": "AP_SUPPLY"
+                }
+            ],
+            "dayCount": 30,
+            "constData": {
+                "colorTotalTimes": "b20030",
+                "showUrlBtn": false,
+                "actUrl": null,
+                "colorBtn": null,
+                "btnDescText": null,
+                "dayCount": 30
             }
         },
         "act1access": {
@@ -206132,6 +207669,79 @@
             ],
             "picGroups": [],
             "startTs": 1756994400
+        },
+        {
+            "id": "dis_main2ss",
+            "type": "ACTIVITY_COMP",
+            "funcId": "act2mainss",
+            "endTs": 1759229999,
+            "sortId": 110,
+            "itemId": "act2mainss_token",
+            "timeNodes": [
+                {
+                    "title": "Event <Dissociative Recombination> is now open",
+                    "ts": 1758042000
+                },
+                {
+                    "title": "Extreme Mode added",
+                    "ts": 1758668400
+                }
+            ],
+            "picGroups": [
+                {
+                    "sortIndex": 1,
+                    "picId": "act2mainss_1",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759229999,
+                        "type": "NONE",
+                        "rate": -1.0
+                    }
+                },
+                {
+                    "sortIndex": 2,
+                    "picId": "act2mainss_2",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759229999,
+                        "type": "STAGECLEAR",
+                        "rate": -1.0,
+                        "stageUnlockParam": {
+                            "stageId": "main_15-10"
+                        }
+                    }
+                },
+                {
+                    "sortIndex": 3,
+                    "picId": "act2mainss_3",
+                    "availCheck": {
+                        "startTs": 1758042000,
+                        "endTs": 1759229999,
+                        "type": "STAGECLEAR",
+                        "rate": -1.0,
+                        "stageUnlockParam": {
+                            "stageId": "main_15-18"
+                        }
+                    }
+                }
+            ],
+            "startTs": 1758042000
+        },
+        {
+            "id": "dis_side_33_sre",
+            "type": "ACTIVITY",
+            "funcId": "act33sre",
+            "endTs": 1760093999,
+            "sortId": 111,
+            "itemId": "act33side_token_sugar_rep_1",
+            "timeNodes": [
+                {
+                    "title": "Event <Babel - Rerun> is now open",
+                    "ts": 1759251600
+                }
+            ],
+            "picGroups": [],
+            "startTs": 1759251600
         }
     ],
     "actFunData": {
@@ -230263,6 +231873,25 @@
         }
     },
     "dynEntrySwitchData": {
+        "act2mainss": {
+            "entrySwitchInfo": {
+                "act2mainss_entry_01": {
+                    "entryId": "act2mainss_entry_01",
+                    "sortId": 1,
+                    "stageId": null
+                },
+                "act2mainss_entry_02": {
+                    "entryId": "act2mainss_entry_02",
+                    "sortId": 2,
+                    "stageId": "main_15-10"
+                },
+                "act2mainss_entry_03": {
+                    "entryId": "act2mainss_entry_03",
+                    "sortId": 3,
+                    "stageId": "main_15-18"
+                }
+            }
+        },
         "act25sre": {
             "entrySwitchInfo": {
                 "act25side_entry_01": {
@@ -233470,6 +235099,47 @@
         }
     },
     "activityTemplateMissionStyles": {
+        "act33sre": {
+            "bigRewardType": "ILLUST_CHAR_REWARD",
+            "bigRewardParamList": [
+                "char_4131_odda",
+                "Clear BB-5 to obtain this Operator",
+                "99785e"
+            ],
+            "isMissionListCommonType": true,
+            "isMissionItemCommonType": false,
+            "missionItemMainColor": "99785e",
+            "isMissionItemCompleteUseMainColor": true,
+            "missionItemCompleteColor": null,
+            "isMissionRewardItemCommonType": true,
+            "isClaimAllBtnCommonType": false,
+            "claimAllBtnMainColor": "99785e",
+            "claimAllBtnTips": null,
+            "titleType": "COMMON",
+            "coinType": "COMMON",
+            "coinBackColor": "b73636"
+        },
+        "act2mainss": {
+            "bigRewardType": "SKIN_REWARD",
+            "bigRewardParamList": [
+                "char_4131_odda@whirlwind#8",
+                "Clear 15-10 to obtain this outfit",
+                "a41836",
+                "326,-32"
+            ],
+            "isMissionListCommonType": true,
+            "isMissionItemCommonType": false,
+            "missionItemMainColor": "a41836",
+            "isMissionItemCompleteUseMainColor": true,
+            "missionItemCompleteColor": null,
+            "isMissionRewardItemCommonType": true,
+            "isClaimAllBtnCommonType": false,
+            "claimAllBtnMainColor": "a41836",
+            "claimAllBtnTips": "Completed mission(s) to claim rewards for",
+            "titleType": "COMMON",
+            "coinType": "COMMON",
+            "coinBackColor": "a41836"
+        },
         "act41side": {
             "bigRewardType": "ILLUST_CHAR_REWARD",
             "bigRewardParamList": [
@@ -233730,6 +235400,27 @@
             "titleType": "COMMON",
             "coinType": "COMMON",
             "coinBackColor": "8f45d6"
+        },
+        "permanent_main_1_Dissociative_Recombination": {
+            "bigRewardType": "SKIN_REWARD",
+            "bigRewardParamList": [
+                "char_4131_odda@whirlwind#8",
+                "Clear 15-10 to obtain this outfit",
+                "a41836",
+                "326,-32"
+            ],
+            "isMissionListCommonType": true,
+            "isMissionItemCommonType": false,
+            "missionItemMainColor": "a41836",
+            "isMissionItemCompleteUseMainColor": true,
+            "missionItemCompleteColor": null,
+            "isMissionRewardItemCommonType": true,
+            "isClaimAllBtnCommonType": false,
+            "claimAllBtnMainColor": "a41836",
+            "claimAllBtnTips": "Completed mission(s) to claim rewards for",
+            "titleType": "COMMON",
+            "coinType": "COMMON",
+            "coinBackColor": "a41836"
         }
     },
     "activityCrossDayTrackTypeDataDict": {

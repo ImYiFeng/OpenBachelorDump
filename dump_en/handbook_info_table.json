@@ -1868,7 +1868,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_adnach_set_1",
+                    "storySetName": "Reserve Prophet",
+                    "sortId": 1,
+                    "storyGetTime": 1758042000,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "1",
+                            "unlockParam2": "55",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_adnach_set_1_story_1",
+                            "storySetId": "story_adnach_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "Everyone knows Adnachiel is smart, but he always manages to surprise everyone anyways.",
+                            "storyInfo": "info/obt/memory/story_adnach_1_1",
+                            "storyTxt": "obt/memory/story_adnach_1_1"
+                        }
+                    ],
+                    "charId": "char_211_adnach"
+                }
+            ]
         },
         "char_212_ansel": {
             "charID": "char_212_ansel",
@@ -9554,7 +9588,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_ccheal_set_1",
+                    "storySetName": "Path of Medicine",
+                    "sortId": 1,
+                    "storyGetTime": 1758042000,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_ccheal_set_1_story_1",
+                            "storySetId": "story_ccheal_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "Gavial only learns after leaving the rainforest that anything taken for granted inside the jungle is not necessarily so outside.",
+                            "storyInfo": "info/obt/memory/story_ccheal_1_1",
+                            "storyTxt": "obt/memory/story_ccheal_1_1"
+                        }
+                    ],
+                    "charId": "char_187_ccheal"
+                }
+            ]
         },
         "char_241_panda": {
             "charID": "char_241_panda",
@@ -29027,7 +29095,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_robin_set_1",
+                    "storySetName": "To Live, To Feel",
+                    "sortId": 1,
+                    "storyGetTime": 1758042000,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_robin_set_1_story_1",
+                            "storySetId": "story_robin_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "Rhodes Island is great, and so is she.",
+                            "storyInfo": "info/obt/memory/story_robin_1_1",
+                            "storyTxt": "obt/memory/story_robin_1_1"
+                        }
+                    ],
+                    "charId": "char_451_robin"
+                }
+            ]
         },
         "char_440_pinecn": {
             "charID": "char_440_pinecn",
@@ -32044,7 +32146,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_kalts_set_1",
+                    "storySetName": "End of a Long Journey",
+                    "sortId": 1,
+                    "storyGetTime": 1758042000,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_kalts_set_1_story_1",
+                            "storySetId": "story_kalts_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "Why be a doctor of all things, Kal'tsit?",
+                            "storyInfo": "info/obt/memory/story_kalts_1_1",
+                            "storyTxt": "obt/memory/story_kalts_1_1"
+                        }
+                    ],
+                    "charId": "char_003_kalts"
+                }
+            ]
         },
         "char_474_glady": {
             "charID": "char_474_glady",
@@ -60792,6 +60928,432 @@
                     "charId": "char_4177_brigid"
                 }
             ]
+        },
+        "char_4178_alanna": {
+            "charID": "char_4178_alanna",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Alanna\n[Gender] Female\n[Combat Experience] None\n[Place of Birth] Rim Billiton\n[Date of Birth] Apr 17\n[Race] Savra\n[Height] 163cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Standard\n[Mobility] Normal\n[Physical Resilience] Standard\n[Tactical Acumen] Normal\n[Combat Skill] Standard\n[Originium Arts Assimilation] Normal",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Alanna, former truck driver from Rim Billiton's Big Pillar. Proficient in operating and maintaining machinery, and currently works in Rhodes Island Repair Workshop No. 3 as she participates in R&D for all kinds of new equipment under Closure's supervision.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Alanna shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.13u/L\nOperator Alanna demonstrates sufficient awareness of and experience in protecting herself from Originium. According to her, she has worked in high-risk industries like mining, which has made her a master of many folk remedies for Oripathy prevention and treatment. Alanna claims these methods work, but their actual clinical effectiveness remains unverified.\n\nI doubt she worked those dangerous jobs for more than a few days before packing her bags. She seems like the sort to value her life above all.\n—Warfarin",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Alanna's first job was helping her father scrub the burnt bottoms of baking trays, and her second was collecting compensation for a mining disaster on behalf of her parents and the other workers.\nShe did not shy away from talking about these distant memories, and even actively threw in details HR did not require. For example, that when the accident happened, she saw the carrot juice in her cup shaking while the pots and pans on the stove danced, and that she collected the compensation money on an afternoon where a sudden wind blew in a sunshower, ruining her formal suit and rendering it unwearable due to shrinkage.\nFor whatever reason, she suddenly paused when mentioning the clothes she threw away. She made herself a cup of hot tea before continuing on a new topic.\nFollowing that incident, she had few choices left for survival. Once, after being kicked out of a mine by the manager for lying about her age, a passing truck driver gave her half a sandwich. During his brief break, the driver boasted about his lucrative income and even showed her a family photo from his wallet. This left Alanna determined to buy a truck.\nCarrying luggage, waitering, repairing water pipes, drilling wells, attending parent-teacher meetings for children doing poorly in school... Alanna was not at all choosy about the work she did, for she knew that she was unqualified for the right to choose. She worked day and night without rest, like a glass factory furnace. Every time she got paid she would put the money in a tin biscuit box, and slept with her head on it at night, as if she could hear a truck galloping through the wilds. When the box was so full it could no longer be shut, she let out a relieved sigh, slept an entire day, and then rushed straight to a transportation company office, yelling: 'I WANNA BUY A TRUCK!'\nBut not everything can be bought with just hard work. Alanna paid a hefty sum for the truck's deposit and driving lessons, signing a three-month training contract with the company. As she was about to walk out the main door, she happened to turn around and saw a familiar looking driver taking a stack of cash from the banknotes she had just handed to the company.\nAlanna finished her tea, and as if remembering something funny, raised her eyebrows and showed off a scar on her arm to the HR Operator. On the day she received her keys, a group of burly truck drivers were blocking the door, smoking and cracking jokes, completely oblivious that they were in her way. They even bet a few beer bottles on whether that little girl would even dare to get into the driver seat, and if she would be scared silly by barrens sandstorms.\nAlanna, who had gotten to know all sorts of people in her many jobs, soon figured out the root of the problem. Thus, she made a bet with their leader on who would cry first. Alanna won when she punched the leader's nose hard, his broken sunglasses scratching her arm and leaving a scar.\nIt was the first time she had made a bet. She won, but did not like the feeling.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Alanna first came to Rhodes Island as Warmy's guardian, with no plans to stay long-term.\nShe would occasionally wander outside the Medical Department, and once accidentally found herself in Engineering's break room, where a group wielding tools were arguing incessantly over some drawings. No one minded her, so she began to stop by regularly, listening in on their shouting matches from the door. Most of the time, she failed to understand what they were even arguing about. However, one day she realized she could almost understand the jargon they used, as if they were simply fancier names for the truck components she was familiar with. So Alanna felt compelled to offer her own opinion—and started arguing with everyone else in the room. The next day, she brought in her 'thesis' to continue yesterday's debate. But this time, whenever she felt mentally stuck, someone would show up behind her and contemplate the problem together until her thoughts were sorted out. Through simultaneous learning and debating, Alanna became a regular visitor.\nAfter that, she once walked into the room and saw a girl she didn't recognize scratching her head at a screen. She coolly walked up to the girl and began instructing her on what to do. The girl's face quickly turned from surprise to confusion. Alanna thought she failed to explain it properly, so she repeated her words patiently. To her surprise, the girl angrily stuffed the computer into Alanna's hands, saying: 'You fix it then!' Left with no choice but to slowly tinker with the computer, Alanna slowly jabbed at the keyboard with alternating fingers to enter all the commands. Before the girl left, she asked Alanna how to spell her name.\n\nThe next day, someone from HR came over saying Closure wanted to put someone called 'Alanna' on her new robot dev team, but they had to triple-check the personnel list before realizing it wasn't an operator at all! My first reaction? Of course I wanted to know who the heck Closure was! Turned out to be that girl! Didn't think she was the head of Engineering. What happened next? I signed a contract to join Rhodes Island, pretty much. I'm pretty fond of the guys in Engineering. Of course, it's also because Closure said that from now on only Engineering operators are allowed to argue in the break room.\n—Alanna\n\nShe fixed it wrong—super wrong—but I saw the energy she had. She wasn't bold OR careful, but she didn't give up... I mean, what's wrong with unconventional methods? Plenty of people here in Engineering weren't hired the usual way, y'know.\n—Closure",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Shoddy handwriting on calendar message board]\nMonday: Gyroscope's broken and under repairs, so don't tell it to breakdance! Also, we're collecting a codename for it this week!!\nTuesday: Closure, are you illiterate? I told you not to tell it breakdance! All the wheels came off!\nWednesday: Why all the fuss? I just made it do a robot dance. I put the wheels back on, and BTW, Alanna: I'm right next to you, so just turn and talk to me if you need to.\nThursday: It's over if we don't figure out a codename soon!\nFriday: Lanns, I left you a midnight snack in the fridge, don't forget to eat it.\nSaturday: Potlid's stew is sooo good... why not call it Nutty, btw? Thoughts, Closure?\nSunday: No comment.\n\n[Audio log]\n'What did Potlid think about it?'\n'Um, not a fan.'\n'I saw its full name on the report. Neural Unit Terminal Driven Maintenance and Combat Assistant... Well, it's a robot car you can use on the battlefield. Listen, just call it Nutty. Short and intuitive!'\n'Uh, then I better figure out how to break the news to Potlid—look at all the chili powder she sprinkled in my lunchbox! To think she'd protest against the name like this!'\n\nPotlid agreed to the name in the end. Actually, I didn't even try to convince her, she even saw the machine long ago. I only asked if she didn't like the name 'Nutty' itself, or if she didn't like me using that name on that machine. Potlid racked her brains for a long time, but still couldn't say. So I switched it up and asked, do you like it when everyone calls you 'Potlid'? And she said: 'Only you can call me that, Lanns.'\n<i>Now</i> I understood. 'Potlid' holds a unique meaning to us. Though, I want to tell her it's not just a name that ties us together.\nFate's a grumpy old man. It tore us apart from our own families, and then used a huge spanner to fasten us together like screws on a board. No matter how much the truck jumped on the rocky beach, we stayed close to each other the whole way. Why did fate do that? I dunno, maybe it thought we were so alike, or maybe it thought it was better for us both this way.\nI've never told that to Potlid though. I'll wait. Maybe one night when she can't fall asleep, I'll make up a story for her.\n......\nAs for how that day ended, I handed a small wrench to Potlid and invited her to join me in maintenance work on her Arts staff. She followed me and twisted the screws left and right... I smiled, and she followed suit, her face slowly returning to that perfect 100 degrees smile.\n—Excerpt from Operator Alanna's monthly HR interview log",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "When I had just returned to Rhodes Island, I often got lost and missed many meetings. I know its a new nomadic plate, but there just isn't enough decent signage around here. That day I wrote a whole complaint letter to Closure, but lost my way as soon as I left the stairwell!\nI almost had a panic attack until I saw a chubby robot headed my way. Silly looking thing. I tried to communicate my search for Closure, and it actually understood me! It showed me the way, and even pointed out the new signage on the walls as we went. I was so emotional the whole time—that disaster didn't break the resolve of the operators on-board, but granted them the courage to re-innovate and rebuild.\nAnd so, by the time I finally found Closure, I tore up the letter and heaped praise on the operator who designed the robot. But for some reason, the more Closure heard, the madder she got...\n—Excerpt from 'Letter of Thanks to All Engineering Operators'\n\nAccording to an enthusiastic operator's report, it was discovered that Alanna, an intern from Workshop No. 3, had been using the 'Nutty' with a navigation module installed to do her volunteer work of 'showing Operators around' and pasting signage while she would hide in the lab to sleep, later exchanging her volunteer credits for a large amount of experiment materials.\nHer actions have violated the spirit of the volunteer system, but Operator Alanna has realized her mistake and willingly accepted the following:\n1. Operator Alanna will voluntarily deduct the respective amount of time from her clocked internship hours and postpone her evaluation for promotion;\n2. Due to the outstanding reviews by various Operators of the 'Nutty' showing them around, Operator Alanna will be allowed to keep all previously exchanged experiment materials, but must use them solely on subsequent iterations of the 'Nutty' and voluntarily accept Closure's supervision.\nThis document is only for archival purposes and cannot be circulated. Please sign below to confirm your acknowledgment and consent on the matter.\n—'■■■■ Informed Consent Form'\n\n[Audio Log]\n'Agh, got it. I stayed up a few days straight to help you draft the design, and I also had to help Potlid modify her staff. So I just wanted to catch up on my Zs.'\n'I can't be bothered to reason with you...'\n'Hehe, but you gotta admit my Nutty's got a pretty deceptive look, yeah? Just think about it: even our most veteran field Operators failed to detect it. How're enemies on the battlefield ever gonna guess there's miniature bombs and flamethrowers hidden inside?!'\n'Wait, didn't you say it was an air pump and heat gun for repairing tires?'\n'Think about it. Those aren't mutually exclusive.'\n'No way! Take them out! NOW!'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Classified Log]\nSender: Rim Billiton Big Pillar Gotta Go Fast Transport Co. HR Dept\nRecipient: Rhodes Island Rim Billiton branch c/o Alanna Engineering Department\nAlanna, are you planning to return to work? Your contract is still valid, so even if you want to quit, you have to sign off and forfeit your deposit in person.\nAdditionally, there are some issues with the truck you returned. We found a huge hole in the right side chassis, as if it were hit by a bomb, but the outer metal layer is intact and undamaged—might you have any idea how this happened?\nBest Regards!\nGotta Go Fast Transport Co.—Wheels are always faster than legs!\n\nSender: Rim Billiton Big Pillar Gotta Go Fast Transport Co. HR Dept\nRecipient: Rhodes Island Rim Billiton branch c/o Alanna Engineering Department\nAlanna, what do you mean by 'Got caught. Screw it, I quit'?\nAlso, 'Use the deposit to buy the boys a round of beer'—who are 'the boys' referring to? Does this include Peter from HR too, the one who always has two pairs of glasses on. You've met me, when I helped you request a LOA.\nOne last thing: the company has discussed the issue you raised in your last reply, and this is what they settled on: You can buy the vehicle if you wish, but you must pay the towing fee as well. After all, the wheels on it were removed long ago, and now it's in line to be scrapped for parts.\nBest Regards!\nGotta Go Fast Transport Co.—Wheels are always faster than legs!\n\nSender: Rim Billiton Big Pillar Gotta Go Fast Transport Co. HR Dept\nRecipient: Rhodes Island Rim Billiton branch c/o Alanna Engineering Department\nGood news, Alanna! You can save on the towing fees! When the boys saw your proposed bet in your last reply—that no one would manage to drive that broken old thing for over three miles, they instantly installed tires on the truck, and were all ready to drive it over! I wanted to join them, but my boss didn't let me take the day off.\nYou previously wrote that you're allowed to take any day off you want, you get overtime pay, and your salary isn't deducted for using sick days. Is that true?\nAlso, does Rhodes Island have a strict work experience requirement?\nLastly, thanks for the beer!\n\nPeter, Gotta Go Fast Transport Co. HR Dept\n[Courier Delivery Receipt]\nRecipient: Alanna\nShipment information: Half a cart of homemade carrot soda, half a cart of 'Big Bottletree' Beer, and the vehicle itself.\nPS: Charlie the Sproglet here! Take us up quick! I finally won a bet with you!",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4179_monstr": {
+            "charID": "char_4179_monstr",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Mon3tr\n[Gender] Female\n[Combat Experience] Undisclosed\n[Place of Birth] Rhodes Island\n[Date of Birth] Jul 25\n[Race] Undisclosed\n[Height] 158cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] ■■\n[Mobility] Outstanding\n[Physical Resilience] ■■\n[Tactical Acumen] Standard\n[Combat Skill] Outstanding\n[Originium Arts Assimilation] Flawed",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Mon3tr is profoundly knowledgeable in life sciences, Oripathy treatment, history and genealogy, and many other fields. She also possesses plentiful experience in mobile combat maneuvers, and offers much-needed assistance during Rhodes Island's rebuilding. Currently serves as a special consultant for the Medical, Engineering, and Field Operations departments.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Mon3tr shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.00u/L\nShe is no longer steadfast, incisive, or relentless, nor the bearer of certain extreme traits. A reminder that our recent loss is all too real.\nMon3tr's vital signs are extremely unstable. This is not to say her new body is diseased, but rather that she is currently in a state of accelerated catalysis and morphosis—in simpler terms, this new body of hers is not yet truly complete. Thankfully, unlike Kal'tsit, who never acquiesced to a physical examination, Mon3tr is more than happy to cooperate with Medical, perhaps even too enthusiastic at times. We will continue monitoring her situation.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Dr. Kal'tsit has left us, and another wearing similar clothes is now at our side, helping to rebuild Rhodes Island. This leaves many feeling somewhat bewildered. We often heard such mutterings as HQ was being rebuilt, the earliest of which even came from Medical itself.\nAccording to the Medic operators, Mon3tr showed up to the very first meeting held after Medical was rebuilt. She stood in the corner of the room, not saying a word, electing to quietly listen to Dr. Warfarin's speech. Eventually, she was noticed. At first, Dr. Warfarin was clearly at a loss for words, but she quickly started raising her voice, drawing everyone's eyes back to her.\n'I know she wants to come along. She feels like she should be there. You must have noticed it, Amiya. Kal'tsit's stethoscope, hanging around her neck... Although she got it upside down.'\n'I don't think she's trying to copy Dr. Kal'tsit, nor does she hope to be her equal. She's inherited all her memories, but at the same time, she's trying to process all that pain... She needs a little... no, a lot more time, just like the rest of us.'\n\nI have decided to officially hire Operator Mon3tr as Medical's special consultant. This decision was made after an assessment of her professional ability in basic medicine, life sciences, clinical medicine, first aid, and other such fields. Her performance during this period has also been taken into account, having helped provide aid to the wounded of her own accord and assisting in surgery (using two talons to secure the wounded while using another two to distract them—Kal'tsit never did anything like that before). This has been decided by a show of hands from all members of Medical.\n—Warfarin\nYour hands are so soft, Mon3tr.\n—Rosmontis\nSee you at the training room today, Mon3tr! We're not leaving until we're all tired out!\n—Blaze\nShe's become Blaze's ideal sparring partner, and not long after she started participating in stool racing and nut-cracking racing; she got second place in both of them.\nShe is Mon3tr, our new comrade-in-arms.\n—Stormeye",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Training Room Recording]\n'Wait, wait, wait, I didn't get a good look. How'd you manage to block my chainsaw? I thought it'd be a sure thing, imploding the air to force you back. No way you'd be prepared for it...'\n'It was my talons.'\n'You're harder to get a solid hit on than ever. Speaking of, I was wondering... Can you still do that thing with your mouth...?'\n(Sound of a violent shockwave blast)\n'What the ****?!?'\n\nWith Operator Blaze's enthusiastic assistance, Mon3tr has gotten accustomed to her current body in a short period of time, and has mastered several unusual combat techniques. She makes full use of the metallic constructs that float in front of her. The pair of large and small constructs are able to decompress into a pair of upper talons and lower talons respectively. The decompression process is near-instantaneous, and their shape can be freely changed to suit the current needs. For example, they can be split into fragments and adhere onto someone else, or act as an Arts unit and help her render emergency treatment. The current Mon3tr does not possess the same formidable resilience she had while at Kal'tsit's side, but there is no doubt that her highly flexible nature on the battlefield is not something to be overlooked, whether she be threatening an enemy or aiding an ally. As a new operator who has not been with Rhodes Island for very long—sorry, official procedure, gotta follow it—she has been very active, participating in over a dozen field missions. She has proven herself a great help to us.\n\n[Classified Log]\nI've ordered Medical to set up a group dedicated to monitoring Mon3tr's condition. We need to keep an eye on it.\nShe accompanied Dr. Kal'tsit for an incredibly long time. The end of the gemini cycle system means a painful rebirth, one full of unknowns. She hasn't been awake for long enough... Mon3tr's current appearance is merely her initial form as an independent construct—in other words, her countenance and capabilities are currently in a state of continuous flux. This process is filled with uncontrollable elements. It must be guided. Ever since we experienced that grave incident, there have been more and more disturbing developments appearing across the land. The situation is deteriorating, and that deterioration is accelerating. Rhodes Island has no time to rest. I worry... I worry that our reliance on Mon3tr will outstrip the speed at which she is adapting to these changes...\nBut no matter what, we will stand with her, and meet those changes together.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Classified Log]\n'According to our intelligence, there has been a surge in 'academic exhanges' between the spires of Zwillingstürme lately. There is no doubt that the Golden Empress is trying to analyze the secrets plucked out from amidst the chaos. The hole in the starpod is still open, and the Columbian government is increasingly engrossed in levitation research... The nations of the Core love new opportunities, but they must understand that these opportunities indicate a brewing crisis that will affect us all, not the start of another round of disputes. We should offer Vina more support. She's able to do a lot more now... But Rhodes Island should refrain from official collaboration with Parliament.\n'Just note these words down for now, Mon3tr. The Doctor and Amiya will know what they mean.'\n\n'Laterano's Law has been on guard for a very long time now. The Holy City's futile call for peace across Terra is, in essence, a way of saving itself. We still do not know exactly what sort of disaster the Law has foreseen, but I fear that not so far in the future, all the past calamities we have seen will be but a shadow of this new one.\n'If there is the opportunity, try to contact the Law, but by no means regard it as a peer. It still retains the ability that caused endless dispute in the past. It is still able to cause irreversible influence on one's personality with ease.\n'But when the time is right, do not hesitate to access its system.'\n\n'I am glad that Clementia and Gladiia listened to my proposal. The 'Land Patrol' is a good starting point. For the time being, Ægir is willing to work on dry land via more neutral powers.\n'Ægir boasts of being the successor of prehistoric civilization. It is the closest to the most foundational of legacies, yet also closest to where the sea currents are cut off. If the one I least want to see shows herself, she will not overlook its existence. She will not come to them as equals of humanity, nor will she, as the philosophers of Ægir expect, reveal a million truths to them in endless communion. Even arrogant Ægir must learn how to confront a 'Creator'.\n'We must deepen our bond with them, and seek out more possibilities from the ruins. Perhaps even from the Seaborn.\n'Raise the priority level of founding an office in Ægir. The two consuls are a good place to start. But remember, Mon3tr. When in contact with Ægir, keep the Doctor well guarded.'\n\n......\n\n'War comes. It will not be one limited to her and us. It is one that affects all of Terra, and everyone on it.'\n\n[Office Recording]\n'Kal'tsit recorded this information bit by bit in my spinal cord. She probably already had an idea of how things would end, and made her final decision. Before her life faded away, she tried to leave behind as much guidance as she could for Rhodes Island.'\n'You've already told the Doctor and me all of this, Mon3tr. You don't need to sit here repeating it over and over... like you're just reciting lines.'\n'No, I need to understand it for myself too.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": ">TIMEDATA TT 197/19/09\n>ADMIN: Oracle; PRTS\nProject Codename: AMa-10\nA mechanical lifeform that uses the gemini cycle system as its core. This lifeform is characterized by an impressive ability to learn and a near-indestructible structure, one that can adapt to all sorts of extreme environments. Furthermore, in theory, it will not be recognized as life by ■■■. In the original plan, this model of mechanical lifeform would have been mass-produced by the millions, helping humanity terraform planets and build new homes for us.\nAt the time, this was not a particularly vital project. It would not have forestalled the oncoming calamity, nor would it have served as the ark of civilization like DWDB-221E. It was more of an investment by its creators. When they were discussing AMa-10, they decided it should be designed to survive, as a way to ensure that in the future, life will still persist.\nIf that is to be considered the moment I was born, then this ship named Rhodes Island should be considered my birthplace. At the time, she still sailed among the stars, the two administrators aboard her cautiously watching the undulations of the dark tides as they debated concepts for the future.\nBut the tide fell on them faster than anybody imagined, and the AMa-10 project could not wait for the day mass production of mechanical life was feasible. And so, I was special, and alone.\nOnce the administrators went into hibernation, I received no further signs of life. But before the true end comes to pass, I still have some duties I must see through.\n\n>TIMEDATA TT ???/??/??\n>ADMIN: AMa-10\nThe administrator known as Oracle has been awakened from hibernation, and I find myself accompanying Oracle alongside the investigation of this land known as Terra. However, this is not an appropriate time for it. None of our projects have progressed as we expected. Oracle should be aware of all this. From this perspective, this awakening was not a rational action.\nAt journey's end, Oracle issued one last command to me.\n'Find yourself.'\nThis command was not especially difficult to parse. What 'finding yourself' means is known to both philosophers and logicians. But I sensed a strong undercurrent of frustration in Oracle's words.\nPerhaps Oracle still had other matters for me to do?\nSeek out traces of life. Protect the spark of civilization. These actions may be of equal value to the hope Oracle advocated for during debates. Still, in contrast to that final instruction, they are somewhat more complicated issues.\nWith these doubts on my mind, I begin my own journey.\n\n>TIMEDATA 899/03/01\n>ADMIN: Kal'tsit; Mon3tr\nThis is the second death Kal'tsit had experienced.\nThe civilizations of this land are advancing, and the enemies we face are becoming more difficult to handle by the day.\nNot every step of Kal'tsit's plan can go smoothly. Her defeats are not unexpected. Yet I have never seen her put her full trust in anyone before, let alone a Sarkaz woman who was once an enemy. But as her mastery of DWDB-221E shows, she is a Terran with more wisdom than most. Maybe this is why Kal'tsit likes her.\nThe only thing I don't understand is why she gave up her former strength, why she chose a body like an ordinary Terran. She had begun to copy the appearance of the humans of Terra a very long time ago. Imitation is a biological instinct, and the starting point for wisdom, but to Kal'tsit, this copying must have another meaning.\nThis is not entirely a bad thing, however. We have a clearer division of labor between us. Sometimes her conversational skills can get us out of trouble, sure, but I think using my strength's the simpler option.\nI will protect her.\n\n>TIMEDATA 1101/09/03\n>ADMIN: Mon3tr\nI ran into the Doctor and Amiya again.\nIt's strange talking to them in words, especially when talking to the Doctor. My subconscious always treats it as some sort of reunion, after ten thousand long years of waiting, and I find myself having to suppress this inappropriate joy. I believe the past me has always been able to communicate with the two quite clearly, but only now, in this current form, is the connection between us truly close. We have 'become the same kind'.\nIt seems I now understand the choice Kal'tsit once made.\n\nI've been reorganizing this ten millennia of data. It feels like it all happened only yesterday, yet they also feel like ancient, faraway stories. They are the foundation my logic and personality rely on, and the treasures I share with Kal'tsit.\nProtect the Doctor and Amiya. I will follow this order to the last, but not only because I was commanded to. It is also my wish.\nPerhaps this will be a new beginning. I must 'find myself' once more.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Entering underlying linked data region. Executing data integrity check.\nTimestamp... verified.\nAuthorization... verified.\nEntering... 'Dandelion'.\n\n[Accessing work log, beginning recording]\n......\nJust last month, a herd of Feranmuts dragged mounts and rivers atop their bodies to the whirlpool near the Black Flow. What must be signed of these <i>Memoranda Pertaining to Abnormal Tides</i> has been signed, to no surprise. After all, as things stand, even the most opinionated of the Core nations must sit at the same table... In short, everything is going smoothly, though the bags under Amiya's and the Doctor's eyes are not particularly pleasant to look at.\nThis seedship contains genetic samples of more than 134,700 native Terran species and their associated breeding platform, as well as compatible databases, backups, expert systems able to answer all possible contingencies, 'Little Handies', vast amounts of equipment... The seedship is ready, and will soon join with the main hold. Our top priority is to find the runaway objective, to try and intervene in its path and allow it to be recaptured by Terra's gravitational field... But the seedship is a brief intermission, an unspoken acknowledgment of the joint project group. We will bid it farewell once it leaves the starpod, hurtling away into the distance... Perhaps it will fade away in an instant, or perhaps it will sail the stellar sea for eternity...\nOr perhaps it will be seized by some star system's gravity, and these 'dandelions' will be scattered across new ground.\nOf course, we cannot forget the movies of Wrankwood, the music of Leithanien, the sociological research, sculptures, and literature of Ægir. Many, many things worth preserving... Perhaps, once these seeds have been baptized by the ravages of time, people will discover by happenstance that this ship is a book with said seeds trapped between its pages. The transportation technology Terra has access to has its limits, so this was in truth a compromise, but who knows, it may turn out to be a pleasant surprise.\nMost likely, Project Dandelion will be meaningless... Just as their every past attempt has turned out. But we cannot give up on looking for a possibility, a chance, a miracle. Like the birth of civilization on Terra.\n[Work log archival complete, recording confirmed]\n\n'Ahh... Turns out, Kal'tsit, when people's heads are full of serious stuff, their tone of voice starts getting all weird.\n'I'm understanding you a lot more as the days go by.'",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_445_wscoot": {
+            "charID": "char_445_wscoot",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Windscoot\n[Gender] Male\n[Combat Experience] 5 Years\n[Place of Birth] Yan\n[Date of Birth] Nov 5\n[Race] Feline\n[Height] 178cm\n[Infection Status]\nOriginium crystals distributed across surface of body, confirmed Infected by medical examination.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Standard\n[Mobility] Standard\n[Physical Resilience] Normal\n[Tactical Acumen] Normal\n[Combat Skill] Standard\n[Originium Arts Assimilation] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Windscoot does year-round armed escort work in Shangshu and its surrounding areas in Yan. He came to Rhodes Island for Oripathy treatment, and signed a cooperation agreement to expand his escort business, providing medicine transportation and talent recommendation services to Rhodes Island.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests show the indistinct outlines of internal organs, obscured by abnormal shadows. Originium granules detected in the circulatory system. The subject is confirmed to be infected with Oripathy.\n\n[Cell-Originium Assimilation] 4%\nSmall distribution of Originium crystals can be seen on the left hand.\n\n[Blood Originium-Crystal Density] 0.14u/L\nOperator Windscoot seldom comes into contact with Originium, and does a good job at keeping his condition under control.\n\nOperator Windscoot attended our Originium Protection Course on time, and earnestly took down many notes despite his difficulty doing so. Apparently, he has a group of people to teach what he's learned here.\n—A Medic Operator",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Rhodes Island Assistance Log]\nRhodes Island's Medical Department received an unusual request for help. A patient had given up on her plans to continue school in Leithanien, but received a sum of money this morning from an unknown source, accompanied by a note haphazardly filled with misspellings of 'Schulgeld'—'Tuition fees' in Leithanian.\nOddly enough, she asked her acquaintances for any information on where the money came from, to no avail. We later came to learn that the only time she might bump into a stranger is when she practices her violin every morning.\nSo on the next day, we tried waiting by the open space where she was practicing, just to see if her benefactor would show up. As the violin played, a window from the adjacent Training Room opened up. We ran over and looked in, only to startle Operator Windscoot, who was quietly training.\n'Ah... hah, I don't get music, but I like it. My tail goes everywhere every time I hear her violin, like I'm tipsy. So when I heard she couldn't further her studies, I just impulsively...'\nThe investigation into this international act of chivalry stopped here, with a gratifying finale: The patient accepted Windscoot's assistance, and they both agreed he would get his money back in a few years, with Rhodes Island serving as the intermediary. Windscoot also sincerely accepted our boss's criticism over this small disturbance. This was actually not the first time he had done a quiet act of 'charity'!\n'When you're always wandering, upholding justice is the name of the game.' Operator Windscoot spread out his hands like it was the natural thing to do, with no apparent intention to reflect on his headstrong actions.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "SOMETHING BIG IN STORE?!\nAdditionally, the infamous Gang of Justice, known for their efficient intimidation tactics and record of 32 robberies in three days without a single casualty under their belt, has not attempted any robberies for 15 days straight. An informant who wishes to remain anonymous claims a Gang of Justice member told him they're about to 'score big', but no one knows what the gang has in store, when other gangs have been keeping a low profile with the current spotlight on highway robbery investigations.\n—Excerpt from the first March issue of 'Shancheng's Jianghu tip-offs'\n\nTURNING A NEW LEAF OR UP TO SOMETHING WORSE?\nA new flag with 'Escort' written on it hangs at the foot of a mountain, and behind it stands a group of fierce, familiar faces—members of the Gang of Justice who claimed they would 'score big'. Are these brigands possibly planning to pivot into armed escort work?! This writer approached them to pose the question, only to discover their fee is abnormally low for such services. Is this a front for something more sinister? Will their clients find their pockets emptied after taking up their cheap offer?\n—Excerpt from the third March issue of 'Shancheng's Jianghu tip-offs'\n\nMYSTERIOUS FELINE RETURNS\nAfter two weeks, the Gang of Justice's escort team has returned to the foot of the mountain. The former bandits actually handed over the entrusted goods to the consignee and received their reward without any shenanigans? It is worth noting that the escort team is led by a young yet unfamiliar face, absent from the history of the gang's various activities. An informant tells us this person used to live with the gang, goes by 'Windscoot' in the jianghu, and returned to the gang after having left for several years. Is this individual related to the Gang of Justice's sudden transformation from bandits into a formal escort firm? This writer shall continue to keep a close eye on the matter.\n—Excerpt from the second April issue of 'Shancheng's Jianghu tip-offs'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "The merchant frowned as he entered the escort firm. That's what they called it anyway, yet it looked like a bandit den. Idle escorts squatted on the ground, and their gazes made the merchant's hair stand on end. The young man who welcomed him is enthusiastic, but so clumsy that he struggled to even produce a shipping bill. The merchant had had enough, and turned around to leave. The young man chased him all the way to the front door, stammering a request for his business card, and promising the escort firm would improve within a month.\nA month later, the young man actually showed up at the merchant's office, introducing the escort firm in a green but practiced manner. With trust and doubt evenly matched in his mind, the merchant followed the young man back. As he walked through the door, he heard the young man cough right before two rows of bodyguards greeted him with a unified roar and their backs bent 90 degrees.\nFloored by their sincerity, the merchant began working with them. On his third visit, he ran into a client stirring up trouble, who seemed to be waving his unsigned bill, flatly denying that the delivery happened. The troublemaker provoked the young man by saying: 'Hit me, then! Or are you scared? Spineless coward!' The young man's brows knit tighter and he suddenly raised a fist—to apologize, and even compensate the troublemaker. The client grabbed the compensation fee, sighed, and left disappointed. Only then did the young man realize that what the other party wanted was not just monetary compensation.\n'I didn't realize what he wanted, but... I decided I'd try my best to avoid resorting to violence to solve my problems.' The young man smiled awkwardly.\nWas that a professional scammer sent to bully the young escort agency? Or someone from their peers in the industry trying to challenge them? No one knew. Anyway, when the merchant contacted the escort firm again, he found out the young man had given every escort team leader a terminal. They also straightened out their handover process—confirm and sign, every step now flowing as easily as one breathes. The escort firm born from a bandit den had metamorphosed into a proper business.\nThe merchant could not help but ask: 'How did you manage all that? I mean like, everything.'\nThe young man who had always managed to handle everything with ease now scratched his head, lost in thought, unsure where to begin.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Operator Windscoot's Personal History]\nAge 2: Picked up by a gang, with the day they picked me up treated as my birthday.\nAge 10: They begged the school down the mountain for half a day until they finally let me study there. Later, I helped the weak wherever I went, handled my classmates who were being bullies, but was treated as the top bully and expelled.\nAge 11 to 17: Too embarrassed to return to the gang, I wandered the jianghu.\nAge 18: Heard rumors that the gang back home was opening an escort firm, so I rushed back. I've been working there ever since.\n\nWhen we questioned Windscoot about the details, he showed a cheerful candidness unique to jianghu adventurers. His mouth twists experiences unworthy of celebration into interesting tales, and it often drew laughter from us. However, when we were organizing our records later, we realized there was still a blank period between his return home and the escort firm's founding. We had indeed asked about that, and he seemed to... just when did he skip over the questions?\n\n[Collection details of a certain Yanese agency]\nBy chance we obtained a payment record showing that Windscoot had paid off fines for several captured bandits. These bandits seem to belong to the gang that took him in when he was a toddler, but their names do not appear in the escort firm's employee roster.\n\n[Rhodes Island Weapon Maintenance Log]\n'Can you not tell the difference between your blades? Why do you always send the same one to me?'\n'I maintain the other one myself. Oh, don't get me wrong, it's not that I don't trust your craft. It's just, the other blade's owner is super fierce and nitpicky. She once gave me a beating when she wasn't satisfied. And I mean a real beatdown!'\n'Huh, so the other blade isn't yours?'\n'I'm just keeping it safe for now. One day I'll be able to return it.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "'A-Ahem! Uncles and aunties, if you insist on having the youth chime in, then look at these two numbers on the wall. Which one is bigger, and by how much?'\n'That's 1 above and 5 below. 5's obviously bigger than 1!'\n'Bah, you should be looking at the first number. 4 on top, 3 below. Top one's bigger!'\n'Hahaha! Makes sense. Well, I won't keep you all guessing. The numbers above are the Gang of Justice's income for the year, while the numbers below are the escort firm's.'\n'Aiya! Which one's bigger then?!'\n'Look, isn't the bottom number longer than the one on top? Our escort firm earns way more than when we were still in the gang. Almost ten times as much! ...Basically, it's a TON of money! Look, everyone. It's possible to walk the right path <i>and</i> have a good life! ...Y-You guys agree, right?'\nThe dinner table observes a moment of silence before bursting into laughter.\n'Hahaha! Just look at this brat, working his ass off because he's scared we'll go back to being bandits! I hope you aren't spending all your time worrying about that?!'\n'...Haha, of course not. I'll drink first as a toast to all your hard work in the coming year!'\n—A conversation from the escort firm's annual new year's eve dinner",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
         }
     },
     "npcDict": {
@@ -67828,6 +68390,110 @@
                 }
             ],
             "stageGetTime": 1756382400
+        },
+        "char_003_kalts": {
+            "charId": "char_003_kalts",
+            "stageId": "mem_kalts_1",
+            "levelId": "Obt/Memory/level_memory_kalts_1",
+            "zoneId": "storyMission",
+            "code": "mem_kalts_1",
+            "name": "Specimen of Civilization",
+            "loadingPicId": "loading_victoria",
+            "description": "She has seen the strongest powers on this land, the passing of time, the cycles of civilization, the corrosion of blades. Might wears down from inner conflict, while unparalleled power becomes the source of self-destruction.\nViolence cannot save a civilization on the verge of collapse, but what is truly lamentable is the fact that it is part of medical treatment.\nKal'tsit is an expert on the subject.\n<@lv.item><Exhaust Grilles> </>Operators deployed on it will not be targeted by enemy ranged attacks.",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1758042000
+        },
+        "char_451_robin": {
+            "charId": "char_451_robin",
+            "stageId": "mem_robin_1",
+            "levelId": "Obt/Memory/level_memory_robin_1",
+            "zoneId": "storyMission",
+            "code": "mem_robin_1",
+            "name": "'Bad Guys Stay Out'",
+            "loadingPicId": "loading_LM_night",
+            "description": "Design and install traps for surprise attacks... Perhaps the inspiration from this combat tactic stems from that holiday movie 'Haven Alone'?\n<@lv.item><Ursus Civilian> </>Depletes a Life Point when killed by an enemy.",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1758042000
+        },
+        "char_211_adnach": {
+            "charId": "char_211_adnach",
+            "stageId": "mem_adnach_1",
+            "levelId": "Obt/Memory/level_memory_adnach_1",
+            "zoneId": "storyMission",
+            "code": "mem_adnach_1",
+            "name": "Overlooking the Battlefield",
+            "loadingPicId": "loading3",
+            "description": "Operators alongside Adnachiel share a common belief—trust in his judgement.\nHe doesn't come up with comprehensive strategies like the Doctor, but when he shares his thoughts with you, just trust in him and you'll usually get a good result.",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "1",
+                    "unlockParam2": "55",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1758042000
+        },
+        "char_187_ccheal": {
+            "charId": "char_187_ccheal",
+            "stageId": "mem_ccheal_1",
+            "levelId": "Obt/Memory/level_memory_ccheal_1",
+            "zoneId": "storyMission",
+            "code": "mem_ccheal_1",
+            "name": "Axe or Staff",
+            "loadingPicId": "loading_SG",
+            "description": "Gavial has always had a straightforward way of thinking. If the jungle needs it, she'll brandish her axe to rid it of threats, or wave her medic staff to treat her companions' wounds. She's long known that the staff in her hands is sometimes stronger than her axe.\n<@lv.item><Bush> </> Operators deployed on this tile will not be targeted by enemy ranged attacks.\n<@lv.item><Giant Mushroom></> Increases the DEF of neighboring allied units.\n<@lv.item><Rhodes Island Temporary Employee></> Clean up Giant Mushrooms and create deployable high-ground tiles",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1758042000
         }
     },
     "handbookStageTime": [
@@ -68406,6 +69072,15 @@
             "timestamp": 1756382400,
             "charSet": [
                 "char_430_fartth"
+            ]
+        },
+        {
+            "timestamp": 1758042000,
+            "charSet": [
+                "char_003_kalts",
+                "char_451_robin",
+                "char_211_adnach",
+                "char_187_ccheal"
             ]
         }
     ]
