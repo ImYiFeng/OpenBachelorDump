@@ -2712,7 +2712,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "Mayer was born in Columbia and was a member of the Rhine Lab Research Lab. She is the inventor of the 'Meeboo' wire control system. She is outstandingly capable and runs her own workshop called 'Lutra.' She is currently working with Rhodes Islands to provide assistance with construction, planning, and development.",
+                            "storyText": "Mayer was born in Columbia and was a member of the Rhine Lab Research Lab. She is the inventor of the 'Meeboo' wire control system. She is outstandingly capable and runs her own workshop called 'Lutra.' She is currently working with Rhodes Island to provide assistance with construction, planning, and development.",
                             "unLockType": "DIRECT",
                             "unLockParam": "",
                             "showType": "DIRECT",
@@ -11116,7 +11116,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "According to the records, the saber wielded by the Sarkaz Lord Kollam was between 0.9 and 1.2 meters long, about 5 centimeters thick, made of an unknown material, black in color, and bore a traditional Sarkaz inscription, which read 'here the fighting stops.' \nAfter succeeding to the throne, Kollam reorganized Kazdel and felt that time in the west had been unkind to the people, so he led some Sarkaz tribes to the east, at which point he vanished from history. \nAccording to legend, Kollam had the power to rout his enemies without fighting. Some accounts say that Kollam's enemies suffered a weight several times that of their normal weapons when facing him in battle, finding themselves physically and mentally defeated. If they were lucky enough to survive, they were often maimed. But some referred to Kollam as an enlightened despot, saying that cuts from his blade drew no blood, and anyone wise enough to retreat would survive. \nHowever, some ancient texts claim that Kollam's saber was destroyed in battle before he even succeeded to the throne, and that the weapon he later wielded was a fragile illusion born of his Arts. Such claims are inconsistent with Kollam's subsequent performance in Sarkaz conflicts, and few can explain why Kollam would not recast his favorite sword under those circumstances. I speculate that Kollam did have the power to shape weapons with Arts, and this theory is centered on the throne. But that Kollam rarely used his Arts in that way, having once been an adventurer. \nOf course, it is written that after Kollam's ascension, his saber gave off a greenish light, like a breath of flame. Kollam's famous ferocity led to the blade being dubbed 'Wrathful Cerulean Flame.' \nMost of the Sarkaz legends have been lost in the ongoing ruination of Kazdel, which has tremendously impeded historical research. There have been recent calls from Sarkaz scholars to restore their history, but their own research has been poisoned by propagandistic efforts to paint a noble picture of the Sarkaz race. \n\n--Logos",
+                            "storyText": "According to the records, the saber wielded by the Sarkaz Lord Qui'lon was between 0.9 and 1.2 meters long, about 5 centimeters thick, made of an unknown material, black in color, and bore a traditional Sarkaz inscription, which read 'here the fighting stops.' \nAfter succeeding to the throne, Qui'lon reorganized Kazdel and felt that time in the west had been unkind to the people, so he led some Sarkaz tribes to the east, at which point he vanished from history. \nAccording to legend, Qui'lon had the power to rout his enemies without fighting. Some accounts say that Qui'lon's enemies suffered a weight several times that of their normal weapons when facing him in battle, finding themselves physically and mentally defeated. If they were lucky enough to survive, they were often maimed. But some referred to Qui'lon as an enlightened despot, saying that cuts from his blade drew no blood, and anyone wise enough to retreat would survive. \nHowever, some ancient texts claim that Qui'lon's saber was destroyed in battle before he even succeeded to the throne, and that the weapon he later wielded was a fragile illusion born of his Arts. Such claims are inconsistent with Qui'lon's subsequent performance in Sarkaz conflicts, and few can explain why Qui'lon would not recast his favorite sword under those circumstances. I speculate that Qui'lon did have the power to shape weapons with Arts, and this theory is centered on the throne. But that Qui'lon rarely used his Arts in that way, having once been an adventurer. \nOf course, it is written that after Qui'lon's ascension, his saber gave off a greenish light, like a breath of flame. Qui'lon's famous ferocity led to the blade being dubbed 'Wrathful Cerulean Flame.' \nMost of the Sarkaz legends have been lost in the ongoing ruination of Kazdel, which has tremendously impeded historical research. There have been recent calls from Sarkaz scholars to restore their history, but their own research has been poisoned by propagandistic efforts to paint a noble picture of the Sarkaz race. \n\n--Logos",
                             "unLockType": "PATCH",
                             "unLockParam": "char_1001_amiya2",
                             "showType": "DIRECT",
@@ -15880,7 +15880,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "[Code Name] Myrtle\n[Gender] Female\n[Combat Experience] No combat experience\n[Place of Birth] Unknown\n[Date of Birth] December 13\n[Race] Durin\n[Height] 1.31m\n[Infection Status] \nMedical tests have confirmed that no infection is present.",
+                            "storyText": "[Code Name] Myrtle\n[Gender] Female\n[Combat Experience] No combat experience\n[Place of Birth] Unknown\n[Date of Birth] December 13\n[Race] Durin\n[Height] 131cm\n[Infection Status] \nMedical tests have confirmed that no infection is present.",
                             "unLockType": "DIRECT",
                             "unLockParam": "",
                             "showType": "DIRECT",
@@ -16580,7 +16580,7 @@
                 },
                 {
                     "storySetId": "story_ceylon_set_2",
-                    "storySetName": "The Ones Left behind",
+                    "storySetName": "The Ones Left Behind",
                     "sortId": 2,
                     "storyGetTime": 1749124800,
                     "rewardItem": [],
@@ -16650,7 +16650,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "Formerly both SP for the Mayor of Siesta and the Bureau Chief of the Urban Public Security Bureau, she joined Rhodes Island at the same time as Ceylon.\nShe has outstanding achievements in covert operations, reconnaissance and anti-reconnaissance, survival, and crossbow usage. She is in charge of protecting the Doctor and is responsible for the training of basic level Rhodes Islands operators.",
+                            "storyText": "Formerly both SP for the Mayor of Siesta and the Bureau Chief of the Urban Public Security Bureau, she joined Rhodes Island at the same time as Ceylon.\nShe has outstanding achievements in covert operations, reconnaissance and anti-reconnaissance, survival, and crossbow usage. She is in charge of protecting the Doctor and is responsible for the training of basic level Rhodes Island operators.",
                             "unLockType": "DIRECT",
                             "unLockParam": "",
                             "showType": "DIRECT",
@@ -18453,6 +18453,39 @@
                         }
                     ],
                     "charId": "char_213_mostma"
+                },
+                {
+                    "storySetId": "story_mostma_set_2",
+                    "storySetName": "Journey's Footnote",
+                    "sortId": 2,
+                    "storyGetTime": 1760443200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "60",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "200",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_mostma_set_2_story_1",
+                            "storySetId": "story_mostma_set_2",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "All we can do is to focus on what we can see.",
+                            "storyInfo": "info/obt/memory/story_mostma_2_1",
+                            "storyTxt": "obt/memory/story_mostma_2_1"
+                        }
+                    ],
+                    "charId": "char_213_mostma"
                 }
             ]
         },
@@ -19139,6 +19172,39 @@
                             "storyIntro": "If you want someone to trust you, the best method of proof is action.",
                             "storyInfo": "info/obt/memory/story_broca_1_1",
                             "storyTxt": "obt/memory/story_broca_1_1"
+                        }
+                    ],
+                    "charId": "char_356_broca"
+                },
+                {
+                    "storySetId": "story_broca_set_2",
+                    "storySetName": "Broca's Anger",
+                    "sortId": 2,
+                    "storyGetTime": 1760443200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "60",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "200",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_broca_set_2_story_1",
+                            "storySetId": "story_broca_set_2",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "Chiave will never understand how he pissed Broca off.",
+                            "storyInfo": "info/obt/memory/story_broca_2_1",
+                            "storyTxt": "obt/memory/story_broca_2_1"
                         }
                     ],
                     "charId": "char_356_broca"
@@ -26745,7 +26811,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_spikes_set_1",
+                    "storySetName": "Dear Randall",
+                    "sortId": 1,
+                    "storyGetTime": 1760443200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_spikes_set_1_story_1",
+                            "storySetId": "story_spikes_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "A surprising letter and someone one should not get on the wrong side of.",
+                            "storyInfo": "info/obt/memory/story_spikes_1_1",
+                            "storyTxt": "obt/memory/story_spikes_1_1"
+                        }
+                    ],
+                    "charId": "char_271_spikes"
+                }
+            ]
         },
         "char_365_aprl": {
             "charID": "char_365_aprl",
@@ -45408,7 +45508,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "As Miss. Lin is not stationed aboard Rhodes Island, our meetings with her are limited to our mutual business dealings.\nTo Miss. Lin, there is nothing contradictory about being a fair, responsible partner while also keeping information from her collaborators. We can always have faith in her ability to handle all sorts of affairs: she helps us sign highly advantageous business contracts at an extremely efficient pace, as well as removing without a trace certain enemies who harangue us. When probed, she also refused to tell us how exactly she handle these problems.\nTo an organization like Rhodes Island, a partnership like this isn't going to last. However, not only did Ch'en vouch for her, Swire, the current L.G.D. Superintendent, also continues to have a tacit trust in Miss. Lin. Swire may always say 'I'll personally arrest Miss Lin one day,' that's merely something she <i>says</i>. Evidently, the three of them have a close relationship, but they also never see each other aboard Rhodes Island. A peculiar relationship that piques all onlookers' interest. All things considered, as long as Rhodes Island's core objective remains the same, we can maintain our mutual trust and partnership. Indeed, this is how we generally operate with most other operators, and many of them go on to become true allies fighting toward the same goal.\nLet us trust her for the time being.\n\n[Classified Log]\n'What's this document?'\n'Information. These are the records of each and every Infected Rhodes Island has come across in the Lungmen slums the last couple years, their health condition afterwards, and their current social credit reports. And the transaction records of every Oripathy-related medication that Rhodes Island sells in Lungmen.\n'This is the reason I made Rhodes Island this partnership offer.'\n'You mean... you've been paying close attention to us ever since that incident?'\n'It's a necessary precaution, and it's also to make sure nothing like that happens in Lungmen ever again.'\n'You understand the consequences your information could bring.'\n'Which is why I made sure that no one else could possibly get their hands on any of it when I was gathering it.'\n'In that case, why are you handing this over to Rhodes Island now?'\n'To show my sincerity.'",
+                            "storyText": "As Miss. Lin is not stationed aboard Rhodes Island, our meetings with her are limited to our mutual business dealings.\nTo Miss. Lin, there is nothing contradictory about being a fair, responsible partner while also keeping information from her collaborators. We can always have faith in her ability to handle all sorts of affairs: she helps us sign highly advantageous business contracts at an extremely efficient pace, as well as removing without a trace certain enemies who harangue us. When probed, she also refused to tell us how exactly she handled these problems.\nTo an organization like Rhodes Island, a partnership like this isn't going to last. However, not only did Ch'en vouch for her, Swire, the current L.G.D. Superintendent, also continues to have a tacit trust in Miss. Lin. Swire may always say 'I'll personally arrest Miss Lin one day,' that's merely something she <i>says</i>. Evidently, the three of them have a close relationship, but they also never see each other aboard Rhodes Island. A peculiar relationship that piques all onlookers' interest. All things considered, as long as Rhodes Island's core objective remains the same, we can maintain our mutual trust and partnership. Indeed, this is how we generally operate with most other operators, and many of them go on to become true allies fighting toward the same goal.\nLet us trust her for the time being.\n\n[Classified Log]\n'What's this document?'\n'Information. These are the records of each and every Infected Rhodes Island has come across in the Lungmen slums the last couple years, their health condition afterwards, and their current social credit reports. And the transaction records of every Oripathy-related medication that Rhodes Island sells in Lungmen.\n'This is the reason I made Rhodes Island this partnership offer.'\n'You mean... you've been paying close attention to us ever since that incident?'\n'It's a necessary precaution, and it's also to make sure nothing like that happens in Lungmen ever again.'\n'You understand the consequences your information could bring.'\n'Which is why I made sure that no one else could possibly get their hands on any of it when I was gathering it.'\n'In that case, why are you handing this over to Rhodes Island now?'\n'To show my sincerity.'",
                             "unLockType": "FAVOR",
                             "unLockParam": "100",
                             "showType": "DIRECT",
@@ -45423,7 +45523,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "Even before she signed on as a Rhodes Island operator, we'd already been very familiar with the name Lin Yühsia. Our indirect dealings with her, as well as all the secrets we've heard from our sources, also more or less painted the image of her as a triad leader. Yet it was only when we finally met Miss. Lin in the flesh on board Rhodes Island that we found out she was not quite the dangerous, gloomy person that we imagined her to be.\nOn the contrary, most operators who have worked with her tell us that she is very easy to get along with. There was even one who, unaware of all the details, mistook her for medical staff from a Lungmen hospital. Indeed, outside of work, Lin never makes shows of force, and she is very well-versed in etiquette when interacting with others. Compared to her Lungmenite compatriots, the ever-meticulous Ch'en and the swift and decisive Officer Swire, Lin instead appears calm and composed, and she is often praised as the perfect embodiment of the elegance and dignity that foreign operators attribute to the Yanese. That said, her self-control and politeness may also have inadvertently distanced her from others even more.\nOccasionally, Miss. Lin Yühsia also displays an awe-inspiring expertise in the arts. Specifically, this includes her skills in Yanese calligraphy and painting, her unique viewpoints on interior design, as well as her mastery of tea ceremony, which eclipses even that of Lee. The glassware she crafts with her Originium Arts are all produced to the highest standards in both detail and design. Of course, to know all this about her, you would have to have built a certain level of rapport with her. If you are lucky enough and just so happen to have the opportunity to have a conversation with her while she is free, you will certainly be astounded by her deep knowledge of Yanese art history. The devotion and confidence she exudes as she discusses such topics show that she did not hone her techniques and eloquence merely for mingling in social settings. She truly loves them.\nGiven all this, we can't help but wonder: If she have never become the 'Lin' she now is, what sort of person would she have become?",
+                            "storyText": "Even before she signed on as a Rhodes Island operator, we'd already been very familiar with the name Lin Yühsia. Our indirect dealings with her, as well as all the secrets we've heard from our sources, also more or less painted the image of her as a triad leader. Yet it was only when we finally met Miss. Lin in the flesh on board Rhodes Island that we found out she was not quite the dangerous, gloomy person that we imagined her to be.\nOn the contrary, most operators who have worked with her tell us that she is very easy to get along with. There was even one who, unaware of all the details, mistook her for medical staff from a Lungmen hospital. Indeed, outside of work, Lin never makes shows of force, and she is very well-versed in etiquette when interacting with others. Compared to her Lungmenite compatriots, the ever-meticulous Ch'en and the swift and decisive Officer Swire, Lin instead appears calm and composed, and she is often praised as the perfect embodiment of the elegance and dignity that foreign operators attribute to the Yanese. That said, her self-control and politeness may also have inadvertently distanced her from others even more.\nOccasionally, Miss. Lin Yühsia also displays an awe-inspiring expertise in the arts. Specifically, this includes her skills in Yanese calligraphy and painting, her unique viewpoints on interior design, as well as her mastery of tea ceremony, which eclipses even that of Lee. The glassware she crafts with her Originium Arts are all produced to the highest standards in both detail and design. Of course, to know all this about her, you would have to have built a certain level of rapport with her. If you are lucky enough and just so happen to have the opportunity to have a conversation with her while she is free, you will certainly be astounded by her deep knowledge of Yanese art history. The devotion and confidence she exudes as she discusses such topics show that she did not hone her techniques and eloquence merely for mingling in social settings. She truly loves them.\nGiven all this, we can't help but wonder: If she had never become the 'Lin' she now is, what sort of person would she have become?",
                             "unLockType": "FAVOR",
                             "unLockParam": "150",
                             "showType": "DIRECT",
@@ -54122,7 +54222,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "Doc is really interested in Oripathy—of course, it would be unusual for a practitioner of medicine to not be—but you really ought to see the notes he made on the newest issue of that Oripathy journal.\nHe has a notebook filled with clippings about the Infected. He's normally such a good-tempered guy, but you could see him seethe with anger at the injustices faced by the Infected. It makes me feel ashamed.\nWhy am I ashamed?\nHis anger makes me realize that I've become numb to the persecution of the Infected. It's a much-needed reminder that injustice is injustice, even if the all the lands are used to it. I have the right... nay, the responsibility to be angry.\n—A Medical Department Operator",
+                            "storyText": "Doc is really interested in Oripathy—of course, it would be unusual for a practitioner of medicine to not be—but you really ought to see the notes he made on the newest issue of that Oripathy journal.\nHe has a notebook filled with clippings about the Infected. He's normally such a good-tempered guy, but you could see him seethe with anger at the injustices faced by the Infected. It makes me feel ashamed.\nWhy am I ashamed?\nHis anger makes me realize that I've become numb to the persecution of the Infected. It's a much-needed reminder that injustice is injustice, even if all the lands are used to it. I have the right... nay, the responsibility to be angry.\n—A Medical Department Operator",
                             "unLockType": "FAVOR",
                             "unLockParam": "150",
                             "showType": "DIRECT",
@@ -59362,7 +59462,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "'Hey, Elysium, what happened to the captain after that?!'\n'Ah, right, where was I... Our Captain Valourchin defeated the scoundrels, and finally managed to take his trusty crew out to sea. With a wave of his silver arm, he could see the positions of every sea monster, letting him slip through their territory before they even noticed. He also recovered basketfuls of fins snatched away by the monsters, meaning nobody had to go hungry. And just so you know, he was only able learn any of these skills because I was there to support him, as his constant companion and closest friend—'\n'But if the Captain Valourchin's always out at sea, doesn't that mean the two of you have split up?'\n'Err... It's true that I didn't follow him to sea...'\n'Then why do you look so happy? Didn't you say you were the best of friends?'\n'I may not be out there among the briny waves with him, but we're still partners! Before he set sail, I thought about everything he might encounter during his adventure! Everything he needed out there was prepared by yours truly! I'm willing to bet that even as we speak, he's eating one of the vitamin pills I gave him!'\n—A tale Elysium recounted about himself and the Captain at a signing for the 'Saga of the Captain Valourchin: Volume 3'\n\n'You sure you're looking for Rhodes Island?'\nThat's what the sailor, beard festooned with clattering bone ornaments, asked me. My heart was leaping out my chest, but since I had already stepped aboard, all I could do was tell the truth.\n'I-I was told there were people here who took applications for R-Rhodes Island supplies.'\nHe squinted his eyes, then led me into the depths of the ship's hold. It was like a ramshackle maze in there. Sometimes we'd have to crawl under Golden Age era steel frames, some still partially gilded. Other times, we'd have to climb up and down ladders fashioned from bone and finleather.\nI was led to a dark room, where a pair of golden eyes stared at me from the other side. The sailor pushed me in, telling me I was on my own.\n'Could you turn on the light for me? The switch is 23 degrees to your right, and 40 centimeters ahead.'\nWith the lights on, I could see who was talking to me. He had messy hair and unkempt clothes, yet gave off a vigorous, youthful aura. He examined me carefully in silence as he fiddled with some strange device in his hand. To tell the truth, this was not what I had in mind when I pictured a Rhodes Island office. All sorts of symbols were scrawled across the wall, while bottles hung down from the ceiling. As strangely-colored lights shone from them, I could faintly see fine threads running through the air. It reminded me more of a sorcerer's lair than anything else.\n'I, err, think I might have gotten the wrong place. Seeing how this isn't a Rhodes Island office and all. I don't suppose you could just let me go in peace? I've got no money on me, a-and there's no one who can pay a ransom either...'\nI clutched my autographed copies of the 'Saga of the Captain Valourchin' trilogy in my bag, trying my best to think of a way out of there. If I had really fallen into the hands of pirates, I thought, then the righteous Captain would surely come to my rescue, but until then, I'd have to rely on my own wits...\n'Oh, what am I saying, this must be Rhodes Island... O-Oh! Terribly sorry.'\nUpon hearing the name 'Rhodes Island', the young man's eyes lit up. He stood up all of a sudden, painstakingly dragging a plank covered in draft paper over from behind him. On the back of the plank was an impressively-carved rendition of the Rhodes Island logo.\n'Sorry, there's not much space aboard, so rooms have to pull double-duty. This <i>is</i> Rhodes Island. Specifically, its high seas office. Trust me, we're the real deal. Now hand me your application form, and I'll see what we have available...'\n—The recollections of a villager who, after introductions from Rhodes Island's Iberia office, came aboard the Cuna de Nene to receive supplies",
+                            "storyText": "'Hey, Elysium, what happened to the captain after that?!'\n'Ah, right, where was I... Our Captain Valourchin defeated the scoundrels, and finally managed to take his trusty crew out to sea. With a wave of his silver arm, he could see the positions of every sea monster, letting him slip through their territory before they even noticed. He also recovered basketfuls of fins snatched away by the monsters, meaning nobody had to go hungry. And just so you know, he was only able to learn any of these skills because I was there to support him, as his constant companion and closest friend—'\n'But if the Captain Valourchin's always out at sea, doesn't that mean the two of you have split up?'\n'Err... It's true that I didn't follow him to sea...'\n'Then why do you look so happy? Didn't you say you were the best of friends?'\n'I may not be out there among the briny waves with him, but we're still partners! Before he set sail, I thought about everything he might encounter during his adventure! Everything he needed out there was prepared by yours truly! I'm willing to bet that even as we speak, he's eating one of the vitamin pills I gave him!'\n—A tale Elysium recounted about himself and the Captain at a signing for the 'Saga of the Captain Valourchin: Volume 3'\n\n'You sure you're looking for Rhodes Island?'\nThat's what the sailor, beard festooned with clattering bone ornaments, asked me. My heart was leaping out my chest, but since I had already stepped aboard, all I could do was tell the truth.\n'I-I was told there were people here who took applications for R-Rhodes Island supplies.'\nHe squinted his eyes, then led me into the depths of the ship's hold. It was like a ramshackle maze in there. Sometimes we'd have to crawl under Golden Age era steel frames, some still partially gilded. Other times, we'd have to climb up and down ladders fashioned from bone and finleather.\nI was led to a dark room, where a pair of golden eyes stared at me from the other side. The sailor pushed me in, telling me I was on my own.\n'Could you turn on the light for me? The switch is 23 degrees to your right, and 40 centimeters ahead.'\nWith the lights on, I could see who was talking to me. He had messy hair and unkempt clothes, yet gave off a vigorous, youthful aura. He examined me carefully in silence as he fiddled with some strange device in his hand. To tell the truth, this was not what I had in mind when I pictured a Rhodes Island office. All sorts of symbols were scrawled across the wall, while bottles hung down from the ceiling. As strangely-colored lights shone from them, I could faintly see fine threads running through the air. It reminded me more of a sorcerer's lair than anything else.\n'I, err, think I might have gotten the wrong place. Seeing how this isn't a Rhodes Island office and all. I don't suppose you could just let me go in peace? I've got no money on me, a-and there's no one who can pay a ransom either...'\nI clutched my autographed copies of the 'Saga of the Captain Valourchin' trilogy in my bag, trying my best to think of a way out of there. If I had really fallen into the hands of pirates, I thought, then the righteous Captain would surely come to my rescue, but until then, I'd have to rely on my own wits...\n'Oh, what am I saying, this must be Rhodes Island... O-Oh! Terribly sorry.'\nUpon hearing the name 'Rhodes Island', the young man's eyes lit up. He stood up all of a sudden, painstakingly dragging a plank covered in draft paper over from behind him. On the back of the plank was an impressively-carved rendition of the Rhodes Island logo.\n'Sorry, there's not much space aboard, so rooms have to pull double-duty. This <i>is</i> Rhodes Island. Specifically, its high seas office. Trust me, we're the real deal. Now hand me your application form, and I'll see what we have available...'\n—The recollections of a villager who, after introductions from Rhodes Island's Iberia office, came aboard the Cuna de Nene to receive supplies",
                             "unLockType": "FAVOR",
                             "unLockParam": "150",
                             "showType": "DIRECT",
@@ -60183,7 +60283,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_nowell_set_1",
+                    "storySetName": "When Our Lives Began",
+                    "sortId": 1,
+                    "storyGetTime": 1760443200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_nowell_set_1_story_1",
+                            "storySetId": "story_nowell_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "A pair of wizened hands push open the door to the beginning.",
+                            "storyInfo": "info/obt/memory/story_nowell_1_1",
+                            "storyTxt": "obt/memory/story_nowell_1_1"
+                        }
+                    ],
+                    "charId": "char_4173_nowell"
+                }
+            ]
         },
         "char_4010_etlchi": {
             "charID": "char_4010_etlchi",
@@ -60439,7 +60573,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "The baby-delivering fowlbeast asked the black and white cats, born on the same day, which one to send to the family that had produced generations of government officials. The white cat knew her destiny did not lie there and shrank back, so the fowlbeast took the black cat.\nThe black cat was confident and strong. The fact that she was the 'stray kin' of a distant clan did not make her timid, and her star shone bright even in a family full of such stars. She went into the Tianshi Bureau, found those she wanted to protect, found what she wanted to change, and never strayed from her path.\nThe white cat drifted to a distant land. Timid and cautious, she did not know where to go when she got Oripathy, so she took a notebook and traveled the land. It turned out that this life was not so bad, and she began to write book after book about her travels...\nAll was as it should have been, as they should be.\n—Excerpt from a draft of a novel, discarded by Xingzhu\n\n'If we were never swapped—I can't even imagine it! Where would I be, if not here? You should keep writing! Now I'm curious.'\nXingzhu shook her head. 'We've already embarked on a path that doesn't belong to us. No amount of words can make things right...'\nBlaze's eyes went wide. 'What do you mean, <i>make things right<i>?'\n'I always felt like I owed you... ow!' Xingzhu covers her forehead with a hand, wincing in pain. She looks up to see Blaze with her hand raised, preparing to flick her forehead again.\n'S-Stop, my eyes are already tearing up from the pain...'\n'Then I owe you an apology. And now we're even.'",
+                            "storyText": "The baby-delivering fowlbeast asked the black and white cats, born on the same day, which one to send to the family that had produced generations of government officials. The white cat knew her destiny did not lie there and shrank back, so the fowlbeast took the black cat.\nThe black cat was confident and strong. The fact that she was the 'stray kin' of a distant clan did not make her timid, and her star shone bright even in a family full of such stars. She went into the Tianshi Bureau, found those she wanted to protect, found what she wanted to change, and never strayed from her path.\nThe white cat drifted to a distant land. Timid and cautious, she did not know where to go when she got Oripathy, so she took a notebook and traveled the land. It turned out that this life was not so bad, and she began to write book after book about her travels...\nAll was as it should have been, as they should be.\n—Excerpt from a draft of a novel, discarded by Xingzhu\n\n'If we were never swapped—I can't even imagine it! Where would I be, if not here? You should keep writing! Now I'm curious.'\nXingzhu shook her head. 'We've already embarked on a path that doesn't belong to us. No amount of words can make things right...'\nBlaze's eyes went wide. 'What do you mean, <i>make things right</i>?'\n'I always felt like I owed you... ow!' Xingzhu covers her forehead with a hand, wincing in pain. She looks up to see Blaze with her hand raised, preparing to flick her forehead again.\n'S-Stop, my eyes are already tearing up from the pain...'\n'Then I owe you an apology. And now we're even.'",
                             "unLockType": "FAVOR",
                             "unLockParam": "200",
                             "showType": "DIRECT",
@@ -60454,7 +60588,7 @@
                 {
                     "stories": [
                         {
-                            "storyText": "The leaves of wild shepherd's purse become too tough in tofu soup if they are picked too late, making it feel as though one is chewing on dried grass. So grandpa and I uprooted the roses in the garden, and tried our hand at planting them ourselves. But it seemed this vegetable would rather grow on the sides of the street than be cared for by us. The seeds would not sprout properly if not sown well, or if it was too warm, as was the case in our garden.\nI stopped tending to the garden when grandpa moved out. I fell ill in the winter of that year, and was hardly able to eat anything. The cook brought a bowl of tofu and shepherd's purse soup, but the leaves were too tough, so I took it back to the kitchen.\nThe cook said the shepherd's purse in the garden had sprouted after it snowed, and she picked them from there. She said that grandpa had been in the kitchen, pondering over a piece of tofu: 'What to do with this tofu if there are no those leaves?' We both laughed, and I finished the bowl of soup. On my way back to my room, I stopped by the garden, and laughed again when I realized that grandpa's ways of coaxing me had never changed, even after all these years. The garden was filled with shepherd's purse, but not the type we planted.\n—Excerpt from the Baizao Cuisine & Food Culture, Volume 3",
+                            "storyText": "The leaves of wild shepherd's purse become too tough in tofu soup if they are picked too late, making it feel as though one is chewing on dried grass. So grandpa and I uprooted the roses in the garden, and tried our hand at planting them ourselves. But it seemed this vegetable would rather grow on the sides of the street than be cared for by us. The seeds would not sprout properly if not sown well, or if it was too warm, as was the case in our garden.\nI stopped tending to the garden when grandpa moved out. I fell ill in the winter of that year, and was hardly able to eat anything. The cook brought a bowl of tofu and shepherd's purse soup, but the leaves were too tough, so I took it back to the kitchen.\nThe cook said the shepherd's purse in the garden had sprouted after it snowed, and she picked them from there. She said that grandpa had been in the kitchen, pondering over a piece of tofu: 'What to do with this tofu if there are no such leaves?' We both laughed, and I finished the bowl of soup. On my way back to my room, I stopped by the garden, and laughed again when I realized that grandpa's ways of coaxing me had never changed, even after all these years. The garden was filled with shepherd's purse, but not the type we planted.\n—Excerpt from the Baizao Cuisine & Food Culture, Volume 3",
                             "unLockType": "AWAKE",
                             "unLockParam": "2;1",
                             "showType": "DIRECT",
@@ -61069,7 +61203,41 @@
                     "unLockorNot": true
                 }
             ],
-            "handbookAvgList": []
+            "handbookAvgList": [
+                {
+                    "storySetId": "story_alanna_set_1",
+                    "storySetName": "One More Time",
+                    "sortId": 1,
+                    "storyGetTime": 1760443200,
+                    "rewardItem": [],
+                    "unlockParam": [
+                        {
+                            "unlockType": "AWAKE",
+                            "unlockParam1": "2",
+                            "unlockParam2": "1",
+                            "unlockParam3": null
+                        },
+                        {
+                            "unlockType": "FAVOR",
+                            "unlockParam1": "50",
+                            "unlockParam2": null,
+                            "unlockParam3": null
+                        }
+                    ],
+                    "avgList": [
+                        {
+                            "storyId": "story_alanna_set_1_story_1",
+                            "storySetId": "story_alanna_set_1",
+                            "storySort": 1,
+                            "storyCanShow": true,
+                            "storyIntro": "A town that disappeared from the map, a goodbye that was never said.",
+                            "storyInfo": "info/obt/memory/story_alanna_1_1",
+                            "storyTxt": "obt/memory/story_alanna_1_1"
+                        }
+                    ],
+                    "charId": "char_4178_alanna"
+                }
+            ]
         },
         "char_4179_monstr": {
             "charID": "char_4179_monstr",
@@ -61341,6 +61509,783 @@
                     "stories": [
                         {
                             "storyText": "'A-Ahem! Uncles and aunties, if you insist on having the youth chime in, then look at these two numbers on the wall. Which one is bigger, and by how much?'\n'That's 1 above and 5 below. 5's obviously bigger than 1!'\n'Bah, you should be looking at the first number. 4 on top, 3 below. Top one's bigger!'\n'Hahaha! Makes sense. Well, I won't keep you all guessing. The numbers above are the Gang of Justice's income for the year, while the numbers below are the escort firm's.'\n'Aiya! Which one's bigger then?!'\n'Look, isn't the bottom number longer than the one on top? Our escort firm earns way more than when we were still in the gang. Almost ten times as much! ...Basically, it's a TON of money! Look, everyone. It's possible to walk the right path <i>and</i> have a good life! ...Y-You guys agree, right?'\nThe dinner table observes a moment of silence before bursting into laughter.\n'Hahaha! Just look at this brat, working his ass off because he's scared we'll go back to being bandits! I hope you aren't spending all your time worrying about that?!'\n'...Haha, of course not. I'll drink first as a toast to all your hard work in the coming year!'\n—A conversation from the escort firm's annual new year's eve dinner",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4193_lemuen": {
+            "charID": "char_4193_lemuen",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Lemuen\n[Gender] Female\n[Combat Experience] 12 years\n[Place of Birth] Laterano\n[Date of Birth] May 21\n[Race] Sankta\n[Height] 169 cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Flawed\n[Mobility] Standard\n[Physical Resilience] Flawed\n[Tactical Acumen] Outstanding\n[Combat Skill] Excellent\n[Originium Arts Assimilation] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Lemuen is a citizen of Laterano entitled to the rights listed in Clauses 1 through 13 of the Laterano Constitution. She is currently a cardinal of the Lateran Curia's Seventh Tribunal.\nWhile Lemuen claims to be visiting Rhodes Island as the family of an operator, her presence here must be treated as an official visit by a representative of Laterano. During her visit, she will provide us assistance in accordance with our agreement.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is confirmed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nLemuen shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.12u/L\nLemuen submitted her full patient records from Stevonus Central Hospital. We agree with their conclusion that continued rehabilitation and avoidance of secondary injury may allow her to regain the ability to walk, but it is a process that could take years or even decades. There is no guarantee that she will walk normally again in her lifetime.\nLemuen was very calm when we explained this to her, as though she had expected it. That afternoon, she brought us desserts, calling them a token of gratitude for the care we showed during the examination.\nI know what she was truly thanking us for, though... It was for telling her the truth. ",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "After being created cardinal, Lemuen gave the Seventh Tribunal's office a complete makeover, connecting several floors and making a rest space in the atrium. Office areas were rearranged based on function and interaction, and a dedicated channel for transferring physical documents was created in order to address the inefficiency and risks of human delivery.\nShe also set up suggestion boxes for various areas in the atrium that cover a wide range of issues, from the Seventh Tribunal's policies to the cafeteria menu. She reads and responds to each suggestion personally.\n\nYes, the office building of the Seventh Tribunal has been completely rebuilt. It is now more like a computer than an office, with Cardinal Lemuen as the central processing unit. It is fortunate to have a colleague who understands the value of efficiency and has successfully implemented such a system. If only she were allowed to hold positions across multiple tribunals.\n—Executor Federico, in his report after a joint project\n\n[Report on Renovation of the Seventh Tribunal's Office Area]\n...The renovation of the Seventh Tribunal's office is now complete. Expenses were within budget, and quality checks are complete. The new office area is now ready for use.\nNote: A minor incident occurred during renovation, but has been properly resolved and did not result in any material impact on the project.\n[Review Committee Meeting Minutes]\n'This 'minor incident' she mentions was a chain explosion caused by stray fireworks from a passing procession. Numerous unauthorized personnel entered the scene and held an impromptu explosion party with the construction team, resulting in a scene of extreme chaos. How's that a 'minor incident'?'\n'It occurred on the afternoon of the 23rd? But the inspection report on the morning of the 24th said 'No issues', right?'\n'Cardinal Lemuen must have dealt with it on her own. Should we have a talk with her? She could have requested our assistance for accidents like these.'\n'She used to report them, but all our response officers could do once they arrived was stare at the spotless scene after everything was already dealt with.'\n'...Send an announcement to remind the other departments and teams. As for Cardinal Lemuen... well, I guess that's who she is.'\n\nThat's what my sister was like at home too. Not just the suggestion boxes—she always has everything figured out, from how we decide where to go on a trip, how we make up after a fight, and how we treat each other at home.\nAs for the trouble I used to cause when I was little... Heh, I've lost count of how many times she's smoothed things over for me.\n—Exusiai",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "The first time I observed my biological father, he did not know I was watching him. The moment our eyes met, he frantically made my powdered milk and changed my diapers. For a long time, he seemed to believe that I only looked at him when I was hungry, sleepy, or needed my diaper changed.\nAfter my grandmother died and he separated from my biological mother, something seemed to change in him. He would come to my crib every day to talk to me, telling me about his loneliness and helplessness. I understood very little of what he said at the time, but it was more interesting listening to him than staring at the ceiling. As I listened to him talk, I started to imagine strange things, picturing him shrinking until he was smaller than I was, lying on a bed, unable to move. That was how I understood the concept of 'growing old' at the time, and in my imagination I would be sitting by his bedside talking to him.\nThat was when I first said the word 'papà', and this light appeared above my head.\n\nThe first time I observed our parents, they didn't know I was watching them either. They stood for a long time at the door to my room, playing rubber-bullet roulette to decide what was for supper as they peeked into my room. When they left, I saw them high-five each other for opening the car door at the exact same time, like two little kids. I started imagining them taking me to a lake outside the city, with me in-between them, making footprints both shallow and deep on the shores, and walking over each other's. When the sun set, we'd look back and see that we'd only left a single row of footprints, and we'd high-five each other like three little kids.\nThat was when I told the Notarial Hall officer that I liked that family.\n\nThe first time I observed you, you were lying in your crib, but I had a feeling that you knew I was watching you. Do you remember how you grabbed my hair and tried to eat it? You called me 'sis' before I could react.\nThat was when I truly began to treat you as a sister.\nYes, I started treating you as my dear sister because I pictured us being with each other.\nWhat exactly did I see? That's a secret. But I'm not telling you this as a riddle. I just wanted you to know that what I see in my head aren't predictions or even expectations for the future. I've never decided to get along with somebody simply because I predicted that I'd be happy with them... Besides, none of those images ever come true. I never had the chance to care for my biological father in his old age, and I doubt our parents and I will ever walk on a lake shore together.\nBut I feel like if you're going to be spending a lot of time with someone, you should be able to clearly imagine what that would look like. Only then can I be confident in us building that relationship.\nSo, those Rhodes Island operators you've been introducing me to, the ones who can use prophetic Arts... Maybe we'll become friends, but I won't ask them to predict my future. If I really could tell the future, and everything I pictured came true... That's when I would stop trying to get along with anyone.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Relic Inquiry Request]\nTo whom it may concern, Notarial Hall:\nWe did not find Lemuen's baby handprints and footprints among the effects of her biological parents after we adopted her.\nShe has expressed a strong desire for them, and we consider it very important for her mental health. We would like to ask whether they are currently in your possession, and whether it is possible to transfer them to us.\nJuly 19, 1073\n\n[Complaint letter, Family Suggestion Box]\nWhy does sis always take so long in the shower?\nShe's in the bathroom for like half an hour after the sound of water stops! What's she doing in there?\nCan we at least make it so she's always the last to shower at night?\n—El, 1085-08-02\n\n[Audio Log, 1101/09/23]\nThey cut out a shot with blood in this scene, didn't they?\nNo, I'm not complaining, I just happened to notice.\nMost people don't notice? Yes, I know. No, I'm not thirsting for more bloodshed in the movies I watch, although I guess I HAVE made you watch quite a few splatter films with me.\nYou're curious why I pay attention to these things?\nUnlike a lot of critics, I don't think blood and gore are sacrilegious... They mean something to me.\nWhen I was little, I took a lot time in the shower. No, I wasn't obsessed with cleanliness, but I would observe myself in the mirror after turning off the water, just like I observed everyone else.\nJust as I see in others the possibility of getting along with them, I saw my own possibilities in myself. I would imagine the places this body could take me, the things we could do together. It began at a very young age, maybe as early as when my biological father bought my baby handprints and footprints... Isn't it amazing that my hands and feet could permanently leave their mark somewhere?\nI imagined a lot of things. The more I imagined, the more I got along comfortably with myself. But you know what happened next.\nWhen I was bedridden, I didn't dare look in a mirror for a long time. I knew I didn't have any scars, and I wasn't worried about being ugly... I just feared that I wouldn't be able get along with myself like I used to.\nThat is, until Mostima started playing movies in my ward. It was a B-movie like we used to see in theaters, one with more than its fair share of gore. But when I saw that blood on screen, instead of making me uneasy, I felt a strange sense of... comfort.\nBecause that's all there is to the human body, this body I'd observed for so long, isn't it? A bag of blood and meat that could fall apart at any time.\nIt's not really logical, but when I saw all that gore, I suddenly felt foolish for entrusting all of my possibilities to this sack of meat. And even if it no longer listens to me, perhaps I was still in charge of my own future.\nI spent a few more years in the hospital, but I used that time to accomplish something quite impressive.\nYou want to know what it was? It's this wheelchair I'm sitting in, most of which I designed from the hospital bed.\nWould you like to hear everything it can do?",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Why do you see the reinstitution of mercenary guards, as exemplified by Landen, as a step back for Laterano?\nWhether you admit it or not, the sanctity of Laterano is fading. Can you picture the couriers of Leithanien proclaiming the revelation that the Sankta come from the same roots as the Sarkaz? Have you thought about how many times the Maylander Foundation has updated its report on the military value of the Law?\nA more formal organization? Do not forget that every Sankta, from the moment they obtain their patron firearm, is de facto part of a formal military organization. Laterano does not want for military strength, yet the best we can protect is this city beneath our feet, as well as an area of several hundred square kilometers around it.\nBut the protection the Lateran faith once offered extends far beyond that, and as such we must rely on the strength of the mercenary guards beyond its borders. You have already perused the proposal on accommodating the war refugees seeking sanctuary in Laterano. Did you ever stop to consider why it was not a town or a castle that protected them from the wars of Bolívar for a decade, but a monastery built to serve our Law?\nIt may be arrogant, but it cannot be denied that our monasteries across Terra, numbering more than a hundred, have provided sanctuary to believers who have never even once seen the white walls of Laterano—believers who may be even more devout than we are—on the strength of their sanctity alone. After our First Saint revealed the truth to all, however, this sanctity has become a curse, an excuse for those with ulterior motives to justify pillage and murder in the name of justice.\nYes, it is the Seventh Tribunal's duty to protect and restore Laterano's international reputation. How do you intend to achieve that, then? Another summit? In the previous summit, we at least offered a reason and a venue for peaceful dialogue between nations. Today, we have few if any chips to bargain with.\nBefore we can demonstrate our innocence to nonbelievers, we must first demonstrate to our <i>believers</i> that Laterano still offers salvation.\nThis is the duty of the Seventh Tribunal, and of myself, Lemuen.\nI ask you, assembled cardinals, for your cooperation.\n—Lemuen, Cardinal of the Seventh Tribunal, addressing the college of cardinals",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "The first time I saw her was on an old wall on the edge of the city, abandoned and forgotten because of plate rearrangements. Aside from my garage, there were only a few retired folks in this old district, soon to be demolished. There shouldn't have been anyone I didn't know.\nIt was a windy night. She sat on the wall, her legs like two dried branches, swaying stiffly in the wind. A wheelchair was parked behind her, reflecting the pale moonlight. I kept an eye on her as I searched the address book for the Notarial Hall's number, afraid that she would do something stupid if I looked away.\nShe did nothing, except look at me with a gaze so sharp I could not shake it even if I shed my whole skin. She raised a finger to her lips in a gesture to shush me. I put away my terminal, and by the time I looked back at her, her gaze had turned towards the night sky.\nI don't know why she climbed that old wall, or how, but I was relieved that she didn't intend to take her own life.\nAfter that, I saw her on the wall from time to time. I would wave at her, and she would wave back. I began to suspect she sat there for the same reason I wandered the old district at night. Laterano's days belonged to the noisy, happy crowds. Its nights belonged to the homeless vagabonds, to the angels whose empathy had gone awry, even to hooded Sarkaz—the ones who don't fit in, the ones who are broken.\nThe night before the old district was scheduled to be demolished, she appeared on the wall again, and I approached her for the first time. I told her I had a little toy in my garage that I made when I was young, a glider that fulfilled the dreams of many children before it was forgotten. Perhaps a little flight would make up for some regrets... if she wanted.\nShe gazed at me for a long time, before eventually declining.\n'Running away has no meaning if I'm not running away on my own,' she said.\n'Besides, I can fly without a glider.'\nWhen I looked up at the wall again, she was gone. The empty wheelchair drove back down the path I had come up on its own. On the other side, she sank towards the night beneath the walls, a massive umbrella in her hands.",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4194_rmixer": {
+            "charID": "char_4194_rmixer",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Sankta Miksaparato\n[Gender] Male\n[Combat Experience] 54 Years\n[Place of Birth] Laterano\n[Date of Birth] Dec 26\n[Race] Sankta\n[Height] 210cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Excellent\n[Mobility] Standard\n[Physical Resilience] Standard\n[Tactical Acumen] Excellent\n[Combat Skill] Outstanding\n[Originium Arts Assimilation] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Patrizion is a citizen of Laterano entitled to the rights listed in Clauses 1 through 13 of the Laterano Constitution, and the longest-tenured active gun-knight of Laterano. He is intimately familiar with the use of various types of firearms.\nIn accordance with the memorandum of cooperation between the Lateran Curia and Rhodes Island, he is currently stationed on Rhodes Island as a collaborating operator under the code name Sankta Miksaparato.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Sankta Miksaparato shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.10u/L\nOperator Sankta Miksaparato has many scars on his body, but all were properly treated, and in his fitness examination he demonstrated the physical prowess befitting a gun-knight, surpassing many younger field operators.\nThere is irreversible damage to his left hip joint. Surgical replacement is recommended, considering his age and the associated risk of bone fracture. I am available next month to perform the operation.\n—Mon3tr\n\n'I'm a little concerned. A gun-knight's presence on Rhodes Island represents Laterano's trust in us, but... Operator Mon3tr isn't nearly as meticulous as Dr. Kal'tsit was when it comes to dealing with people.'\n'Don't worry, I just saw her pushing Mr. Patrizion's wheelchair through the corridor at great speed. He was laughing heartily.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[A Day in Patrizion's Life]\n05:00 - Wakes up and changes into full gun-knight armor. Typically takes one hour (he refused to pick a squire, insisting on wearing and removing his armor without assistance).\n06:00 - Morning prayer. Typically takes one hour, though 10-15 minutes may be spent deciding which scripture ribbon to display on his armor (scriptures issued during Yvangelista XI's reign are excluded from selection).\n07:00 - Arrives for duty. Patrizion leads his squad to patrol the designated district, wearing a halo amplifier (a.k.a. helmet-mounted supplemental halo light). Laterano guidebooks recommend that tourists in need of assistance seek out the brightest halo in the crowd.\n13:00 - Change of shift. Patrizion climbs the walls and uses city-defense artillery loaded with special ammunition to clear obstacles in Laterano's route. Laterano is the only nomadic city that maintains its route by such means, and only the gun-knights are skilled enough to destroy large obstacles (typically overgrown Originium crystals) without compromising the terrain of the route. This is his favorite part of the day.\n17:00 - Change of shift. Patrizion arrives at the firing range for practice or to train new Pontifica Cohors recruits, and demonstrates the usage of large firearms to the numerous Lateran citizens who gather to watch. Typically takes much longer than expected due to the large crowds, but he never turns down citizens seeking his advice.\n19:00 - Audience with Yvangelista XI to report on Laterano's security matters, discuss the Law, and share cactus tarts (as the previous item on the schedule tends to overrun, Patrizion typically only has time to do the latter).\n20:00 - End of work day. Patrizion blocks Yvangelista XI's work account, removes his personal account from the blacklist, picks out a message that includes movie tickets from the many unread messages to reply to, then turns off his terminal.\n20:30 - Watches a movie with Yvangelista XI.\n22:00 - Attempts to sleep (usually unsuccessful, in which case he turns on his terminal and attempts to send a message to Yvangelista XI's personal account, only to get a popup message that he has been blocked).\n\n[Audio Log]\n'Why don't you answer his messages? Weren't you the only one to realize that he disappeared when we were dragged into the dream by the Law? I thought you guys were good friends.'\n'Mm... all I remembered was that there was this old man who gave me the habit of eating cactus tarts, but I couldn't remember who it was. Speaking of, you're friends with Mostima, aren't you, Fia? Why don't you answer HER messages?'\n'......'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "It took six months before Operator Fiammetta and Operator Sankta Miksaparato met on Rhodes Island. She promptly looked up his mission logs and found that the gun-knight, despite claiming to want to find a place outside Laterano to get some good rest, had participated in a large number of field missions, along with other even more outlandish activities:\nAt Roberta's introduction, he starred in the Wrankwood action blockbuster <i>Kingdom of Outlaws</i>. He had showed up at just the right time—the filmmakers were having trouble casting someone more than two meters tall who could play a villain, wear a special suit of armor, and carry a massive weapon that sprayed fire. Conveniently, he was able to do all this without special effects or even a custom costume: all the crew had to do was spray-paint his gun-knight armor. He was extremely interested in acting, and turned out to be a natural, finishing most of his scenes in one take. The producer called him 'the last piece of the puzzle for this film to become a classic'...\nHe also took part in a Columbian off-road rally—it took the combined efforts of Closure and Chiave's team and a full month of work to create a vehicle that could carry his weight and that of his armor, but the final result was unsatisfactory at best: though no one was foolish enough to clash with him, the machine lacked the necessary performance, and the massive rider and his massive bike were the last to cross the finish line at sunset. Though the photo album 'Gun-knights and the Art of Motorcycle Maintenance' became the subject of much discussion on the intercity net.\n......\nItems such as 'helping Engineering with deck repairs' and 'learning qinggong from Yanese operators' were dismissed by Fiammetta as being mundane.\n\n'Is this your idea of rest and recuperation, Patrizion? You're even busier than you were in Laterano.'\n'Did you think I'd spend my days on the deck basking in the sun?'\n'......'\n'Sure, that sounds like what an old man on the verge of retirement might do. But I've spent my entire life as a gun-knight and nothing else. What's wrong with a chance to experience other ways of living?'\n'I didn't even say anything!'\n'Look, Fia, I won't interfere with your life anymore, so I hope you won't interfere with mine either... There might not be much left of it, but there are still so many possibilities.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "It is difficult to define the relationship between Patrizion and Fiammetta.\nThey are not your average grandfather and granddaughter. He took her in when she was seven, vowing to his fallen comrade to raise her into a Lateran any parent would be proud of. Their first 'war' broke out that very day, when he attempted to comfort the young Liberi with movies when she stubbornly refused to show her sorrow. The attempt was a failure, with Patrizion being forced to defend his choice of films (though he insists it was a win because he achieved his original goal of making her forget her sorrow). The adoption documents at the Notarial Hall record their relationship as grandparent and grandchild, but they rarely call each other that. Indeed, during what little time they spend together, they are like two bickering friends, arguing over each other's fighting styles, interests, hobbies, behavior, and even diet, before going back to their own lives, satisfied.\nThey are also not your average mentor and pupil. Patrizion was indeed Fiammetta's mentor, and he was involved in the important moments of her life, from choice of school to choice of career. According to her, however, he only seriously exercised his role as a mentor on three occasions: accompanying her when she upgraded her grenade launcher, encouraging her to join the gun-knights, and attempting to rectify her tastes in cinema. He did not deny these claims, and simply reiterated his disapproval of her prejudice against Wrankwood movies.\n\n[Medical Department Audio Log]\n'Ah, it's nothing I can't talk about... I've always felt that my role as her mentor was to be the embodiment of Laterano for Fia. As a Liberi child who lost her parents at a young age, she had many questions growing up that 'Paradise' had to answer, questions that couldn't be answered by the papers of the Notarial Hall, or the 'faith' that every Lateran speaks of yet can't properly explain. For Fia, I was a gun-knight, someone who was in a position to interpret the Law. I was a Lateran she could talk to... Honestly, I was in the same boat. After Gia left the Holy City and Pag distanced himself from me—when I realized I'd never truly shared anything with the Liberi I lived side-by-side with—I began to have doubts about the Holy City, and needed a 'Laterano' I could talk to. That was when Fia came into my life. Who's to say who couldn't leave whose side?'\n'I see. But why don't you want her to find out that you'll be hospitalized for a while because of arthritis?'\n'Because I don't want her to think of me as a bedridden old man.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Postcard]\nDear Grandmother,\nI will graduate soon. I would like to apologize for the impulsive decision I made behind your back... Perhaps you already realized that I've felt out-of-place studying theology these past four years. I still believe that my childhood dream is my destined path, and that I can do so much more as a gun-knight than as a priest.\nI'll be applying to become a cadet gun-knight, so I won't be coming back for the holidays. The training and approval process may take a while, but I'll be in full armor the next time I come see you.\nWith Love, Patrizion\n[Notice Letter]\nMr. Patrizion Pozzo,\nWe regret to inform you that we have held the remains of your grandmother, Marion Pozzo, for the maximum period permitted. As we have been unable to contact you, we have cremated her remains in accordance with the Law. You may retrieve the ashes at your convenience.\nWith Apologies, Ecclesia Requietum Stevonus\n\n[Permit]\nPatrizion Pozzo, Apostolic Knight, is hereby authorized to supervise the departure of the long-range landship <i>Twinflower</i> and accompanying vehicles from Laterano, for the purpose of deporting Lateran citizens afflicted with Oripathy in accordance with the Law.\nPatrizion Pozzo is hereby granted absolute discretion over all personnel on the ship, and is authorized to make any modifications or cancellations to the schedule as necessary.\n[Notification]\nCitizen Gia Lopez, you have been diagnosed with Oripathy, and are now scheduled to depart Laterano on the landship <i>Twinflower</i> in accordance with the Law.\nCooperate with supervising personnel during the journey, and remain in the Infected cabins on the lower levels except when necessary. Detailed instructions are attached with this notification. Please read them prior to departure.\n\n[Recommendation]\nYour Holiness:\nI, Patrizion Pozzo, hereby recommend the cadet gun-knight Aurela, who demonstrated extraordinary performance during the assessment process. While her pride can still get in her way at times, I believe that with proper guidance she could be the most promising gun-knight of the next generation.\nPatrizion Pozzo\n[Rejection]\nTo Patrizion Pozzo, Apostolic Knight:\nAs the Pontiff of Laterano, I hereby reject your resignation. What happened to Aurela was not your fault—not entirely, at least—and there is still much for you to do in your current position.\nIf you still insist on resigning and nothing will change your mind, write another resignation letter.\nYvangelista XI\n\n[Unsent Letter]\n...Gia.\nI retired today. I've been a gun-knight for fifty years... It's plenty, but at the end of it all, I still don't understand what a gun-knight is.\nAt first, I thought becoming one would let me protect everyone.\nLater, I thought becoming one is what made me lose everyone around me.\nRecently, however, an even scarier thought occupies my mind. Maybe all the ups and downs in my life had nothing to do with becoming a gun-knight at all.\nThat it's not that being in this position made all those choices for me, but that I was unwilling to make them myself... Was becoming a gun-knight the only choice I ever made in my life?\nIf so, a 'gun-knight' might be no more than a symbol, an ideal, an answer for me that I'd taken for granted.\nBut that's not what a gun-knight should be, and it's not what Laterano should be. No one should allow a symbol, an ideal, to dictate all their choices in life. Do you think I still have a chance to help the children understand this?\nOr maybe they've always understood it better than I have.\nI hope so, Gia. I really do...",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "It has been a long day. You were unable to get out of work until quite late, and the movie has already started by the time you arrive at the theater. You feel less guilty when you sit down and see that the seat next to you is empty; it would be rude to be half an hour late for a meeting with an old man, but not so much if the other party is late too.\nThe movie ends, and the old man never showed up. As you get ready to return to your office, someone pats you on the shoulder.\n'You were late, Doctor.'\nYou turn around to see the tall figure of Patrizion, his head wrapped tight in a scarf that almost covers the top of his head. It has been a cold winter.\nYou express your dissatisfaction. After all, it was he who never showed up. He sighs and apologizes.\n'The people behind me complained I was too tall, so I moved to the last row. Sorry, I forgot to send you a message.'\nNow you are the one in the wrong. You blink.\n'I usually pick the late shows, where I won't have to worry about blocking someone else's view. For some reason, though, I always have someone sitting behind me, so I always have to go sit in the last row. At my age, it gets really hard to see the screen from there...'\nPatrizion keeps talking along the way, right up until you have to part. That is when he realizes it—\n'Oh, look at me, I've been babbling, haven't I? It's been so long since I've watched a movie with someone, and I was just too excited.' He shakes his head abashedly and turns around to leave.\nYou stop him before he rounds the corner and tell him you were planning to get some ice cream. You can walk with him for a little while longer.",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4188_confes": {
+            "charID": "char_4188_confes",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Serial Number] CONFESS-47\n[Voice] Male Type 4\n[Time in Service] 4 years\n[Manufacturer] Laterano Faith Assistive Engineering Design Bureau\n[Place of Production] Laterano\n[Date of Release] Dec 24\n[Height] 230cm\n[Weight] Classified\n[Inspection Results]\nNo damage on outer shell. Structure intact. Engine and chassis in good condition. ECU in good condition.\nExternal firearm loaded. Confessional database is up to date.\nMinor malfunction with language module. Core function is unaffected.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Top Speed] 16km/h \n[Climb] Normal \n[Brake] Normal \n[Mobility] Normal \n[Endurance] Excellent \n[Structural Integrity] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Performance Review",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "1st-gen automated confessional developed by the Laterano Faith Assistive Engineering Design Bureau. It began as a stationary confessional fitted with a smart voice system, modified and fitted to a mobile chassis allowing it to move through Laterano and respond to the confession requests of citizens on the intercity net.\nThe classic form is the designer's taste, and gives the user an impression of simplicity and honesty.\nThe accuracy and response of the voice recognition system were improved, and new customization options were added, including voice types, cognition scope, and response tendencies, providing a more personalized confession experience.\nThe automated confessional CONFESS-47 (full serial in Curia records: LATERANO AUTOMATED CONFESSIONAL 047) joined Rhodes Island as a gift from the Lateran Curia and currently serves as an operator providing confession and other services to members of Rhodes Island.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "'Confession' is a concept unique to the Lateran faith, and unfamiliar to most Rhodes Island operators. People understand it in many different ways: some imagine it as a way to seek comfort by confessing one's sins and asking for forgiveness, while others see it as a way to build trust with God by dissecting one's own sins and seeking punishment. Most agreed, however, that this gift from the Lateran Curia was likely to end up as little more than an accessory in the reception room.\nSurprisingly, it took only a few days before long queues started forming in front of CONFESS-47's cabin door, and most of the people lining up were not Laterans. A Lateran Messenger visiting Rhodes Island wrote a 300-page report on this remarkable phenomenon, bringing it back to Laterano to be studied by the priests.\nAfter several months of study and discussion, the priests published a 600-page thesis arguing that confession (specifically as it pertains to confessions conducted with a confessional) is applicable to all of humanity, whether they believe in the Lateran faith or not. In the paper, they wrote:\nIt is human nature to give things meaning. We give any external stimulus we encounter some sort of positive or negative meaning, using it as a guide for subsequent action. The interaction between human beings is also a catalyst for the creation of such meaning. In particular, the opinions of others significantly influence the direction of such additional meaning. These additional meanings typically remain with an individual for the rest of their life, significantly shaping their views and character...Confession forms a way to eliminate additional meanings that are unnecessary.\n\n'That's way too complicated. The truth is much simpler. Imagine that you put a grain of sand in a clam. It'll begin to secrete nacre and wrap it around the sand, until it no longer stings. But the confessional is a machine. It doesn't secrete anything; all it does is scoop the sand out for the clam and throw it away.'\n'In other words, the confessional doesn't judge, whether you're bringing it joy or worry. Talk with it for a while, and you'll realize that whatever's bothering you wasn't that important after all—especially when you're trying to stifle a laugh because of a bad pun CONFESS-47 just made.'\n—Exusiai, to operators whose heads were hurting after reading the aforementioned thesis",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_1041_angel2": {
+            "charID": "char_1041_angel2",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Exusiai\n[Gender] Female\n[Combat Experience] 6 Years\n[Place of Birth] Laterano\n[Date of Birth] Dec 24\n[Race] Sankta\n[Height] 162cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Standard \n[Mobility] Excellent \n[Physical Resilience] Standard \n[Tactical Acumen] Excellent\n[Combat Skill] Excellent \n[Originium Arts Assimilation] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Exusiai is a citizen of Laterano entitled to the rights listed in Clauses 1 through 13 of the Laterano Constitution. She has provided communications and armed escort services to Rhodes Island during the contract period. At her request, her registration has been updated to reflect her current status as a veteran employee of Penguin Logistics and owner-founder of Apple Pie Logistics in Laterano.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Exusiai shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.13u/L\nOperator Exusiai sometimes delivers packages with Originium content, but it has not caused infection to date.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[St. Theodore's Comprehensive School Board Meeting Minutes]\nMostima claims that Lemuel 'accidentally' burned her middle school diploma in Lungmen, and that she was 'forced' to complete the university prep course in high school. The graduation ceremony she held for herself before she left the Holy City had a significant impact on the school's order and the public security responsibilities of the Pontifica Cohors... However, we were all witnesses to the excitement that day, when she hacked a hundred confessionals and had them charge into the campus to join her performance. There is no doubt that Lemuel submitted an outstanding 'final project'.\nConsidering her grades and respect for ceremony, the board has decided to request permission from the Curia to issue her a graduation diploma.\n\nExusiai was born to an ordinary family in Laterano. Normally, she would have completed her prep course and gone to university, studying intercity net security or faith assistive engineering. In other words, lived a proper, fulfilling life, like millions of her Lateran brethren. That is, if she had not left Laterano at the age of seventeen.\nIn order to discover the truth behind Lemuen's injuries, she followed the newly-appointed Legatus Mostima out of the Holy City. For the next two years, Mostima avoided directly meeting Exusiai, perhaps because she had yet to recover from the trauma of becoming fallen, or perhaps she was simply unsure how to approach the sister of her friend. However, they never cut off their relationship completely, and traveled the sands of Sargon and the salt flats of Iberia, through one city after another, until they arrived at Lungmen and met Penguin Logistics.\nExusiai always speaks of this with an air of 'life outside Laterano is so much fun,' as though she had simply gone to an amusement park, but we all know how difficult the adjustment can be for a Sankta leaving the Holy City for the first time—away from her kin, her empathy and Signa Creditorum useless, and her living habits decidedly out-of-place. When she got her job at Penguin Logistics, she began meeting many new people, and dealt with things she could not have imagined before. The changes that occurred in Exusiai's life may pale in comparison to the tragedies that take place on Terra every day, but would be more than enough to turn the faith of a former denizen of paradise upside down. Yet Exusiai has never changed; she always has a bright smile on her face, is always confident while shouting 'Guaranteed success', and is unafraid of adventure, even while far from home.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "'Apple Pie Logistics'? Croissant! Grab Exusiai and tie her to the sofa! I gotta check if that lightbulb on her head's gone and blown a fuse!\n—Emperor\n\nNo, the boss isn't actually angry. Just look at his face, half smiling and half worried—he still has her employment contract, which means Apple Pie Logistics is just an affiliate of Penguin Logistics. He couldn't be happier that his employees are conquering new territory for him! As for why he's worried, well, she'll certainly have less time to help plan his parties for him.\n—Sora\n\nYes, I saw Exusiai. Cooperation between the Truckers' Union and a new logistics company sponsored by the Lateran Curia can only be a good thing for both Nuova Volsinii and Laterano. Yes, she said her real goal is to 'keep her friendships alive forever by working together'... And yes, I signed the memorandum.\nOf course she's not heartless. No one's more sensitive than her. To her, positivity is both an instinct and a responsibility that she's subconsciously placed on herself. She feels like she has an obligation to make everyone around her happy. She may have been one of the last to join Penguin Logistics, but she's also its heart and soul.\n—Texas\n\nThe Law, faith... everything in Laterano changed after that incident. The people who remained had enough on their hands already, dealing with the truth and rebuilding the Holy City's order, but there's even more trouble brewing outside. For all its efforts in the first Summit of Nations, Laterano was only able to convince a limited number of factions to accept its proposal. And now, when all eyes are on it, it's even more important that it not turn away. It needs more channels of communication with the outside... an international logistics company, for example. That's how Apple Pie Logistics was born.\nAs for 'Why Exusiai?'—\nSetting aside the fact that she's the sister of a cardinal... she has a background in logistics, and at a time when the concepts of angels and demons are being reexamined, who better to play the role of ambassador than someone always wearing an infectious smile? I mean, can you imagine Federico or Oren on the job?\n—Mostima",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "The first time I clearly felt that a change was about to come over me was the day I spoke for the first time. You were next to my bed, fending off my attempts to play tug-of-war with your hair, and betting on what my first words would be with our parents. They kept updating their guesses and were even noisier than the comfort bell by my crib. From time to time, you would interrupt them to ask them for a milk bottle or a baby toy.\nThe sight of their bright eyes staring at me made me a little uneasy, so I turned my head and met your gaze. You were too close, and your pink eyes looked a little blurry. Then I started feeling emotions that didn't belong to myself. It took a long time for me to realize that it was 'expectation'. You had as much of it as our parents, but you were also a little uneasy, a little doubtful. To you, I was the stranger in the family... That was when I felt the urge to say hello to you, and tell you that we'd get along great. What a strange and wonderful feeling! The next instant, I heard my own voice say, 'Sis,' and this light began to appear above my head.\n\nThe first time I really felt that I needed to become strong was the day I picked up my patron firearm. Master Pag put the assembled gun in my hand, and we took a picture together in front of a saint's statue. When the shutter was pressed, I shouted excitedly, 'I want to have so many adventures!' Then I noticed that made you clutch your rifle tighter.\nI remembered that I had skipped class the day before—to fly a kite on top of the Basilica—when I accidentally caused an explosion, forcing you to leave your end-of-school-year ceremony to pick me up.\nYou must've given yourself a little more responsibility when I yelled that wish, and I didn't want to make you worry.\n\nThe first time I felt the change in Sankta empathy after the calamity was when I was playing Super Music Tycoon with the boss. We were in a heated match when I suddenly felt an incredible wave of emotions come over me. Next thing I knew, I was standing up and had flipped the board over. Boss yelled at me for being a sore loser since he was only a few steps away from winning, but then he suddenly looked shocked and asked me why I was crying. It's a little embarrassing to say this, but I think that was the first time I ever cried in my life, even though I didn't know why.\nLater, I found out that it was the first time you managed to walk a full circle around the room at the hospital in Stevonus, without using any drugs or devices. It meant your therapy was going to succeed, and you'd go back to living a normal life one day. You were happy for yourself, and at that moment I fully felt how hard things had been for you, and how precious life was. Lungmen is so far away from Laterano, but our empathy still worked, something we couldn't even imagine before. In most cases, our empathy was a lot less distinct after the calamity, but my empathy with you, our parents, and my Sankta friends seems to have grown much stronger, and isn't even limited by distance.\nWhich is why I'm starting to get worried, sis. What if you start to feel bothered by me?",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Exusiai gave the HR staff handling the case a considerable shock, twice.\nThe first thing she did when she returned to Rhodes Island was not to try to set a new light-gun shooting record with Operator Aosta, but to deliver a gift to Rhodes Island on behalf of the Lateran Curia, the automated confessional CONFESS-47. Then the HR operator learned that she had played a large part in the improvement of these confessionals—her proposed upgrades helped her earn first place in her faith assistive engineering class during her university prep studies at St. Theodore's Comprehensive School. CONFESS-47 showed us the place where her signature could be found on its chassis, which is also present on all other confessionals from the same batch—a reward from the Lateran Curia.\nBefore HR could recover from the shock of meeting 'Exusiai the Engineer', she had begun talking about the process of improving the confessionals—\n'It's complicated—what's the optimal size? Too large, and the feeling of privacy is lost, not to mention the negative impact on traffic; too small, and it gives people claustrophobia. How smart should its system be? It can't be too serious, but too many entertainment functions and it'd feel like some weird, fancy karaoke box. Should the internal furnishings be distinct from traditional confessionals? Imagine our friends in the city having to go into a car from time to time, confessing their sins or seeking comfort from something that doesn't actually exist—basically a bunch of secrets that are hard for someone to say out loud, but which they have to let out... They should feel that a weight's been lifted from their shoulders when they walk out of that car.\n'Drawing the blueprint was the easy part. I spent a lot of time talking to people and visited practically every church in Laterano, bothering both the priests and layfolk there.\n'Anyway, take good care of CONFESS-47, and I'm sure it'll take good care of you!'\n\nIt may be blasphemous, but in my opinion, faith assistive equipment like automated confessionals and halo/wing calibrators aren't like taking medicine for a cold, where just by using them your faith is suddenly unshakable and your understanding of the Law complete. They're more like prayer. Prayer by itself doesn't do anything—it's the process that really matters, giving us an opportunity to think of one another. The design and use of faith assistive equipment is the process by which we strengthen our faith. The result has never been what's important.\n—Exusiai's proposal on improving automated confessionals\n\nI recommend that the Curia increase investment in faith assistive engineering. The young people are coming up with all sorts of novel ideas in the field, and Laterano needs to keep their creativity vibrant. Besides, now more than ever we need both prayer and confession, now that the very foundation of our faith has been turned upside down.\n—Conversation between the Pope and the Cardinal of the Fourth Tribunal, at an afternoon cactus tart session in late 1101",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[How to make an apple pie]\nStep 1: Soften butter at room temperature\nStep 2: Mix the softened butter with flour and sugar\nStep 3: Mix with water and knead into dough\nNote: These three steps may take some time. Starting at 8pm in Lungmen will allow you to catch L.G.D. shows on prime-time TV while you work. Start around 4pm if you're in Laterano—that's when impromptu explosions typically happen, making for good background music.\n......\nStep 5: Cut the apple into small pieces and sauté with sugar\nNote: Whatever the amount of sugar that other recipes call for, add four times as much. Only twice as much if there are any friends who need to watch their sugar—celebs like Sora who need to watch their figures.\n......\nStep 12: Shape the pie crust by hand\nNote: A gun's stock can be used as a rolling pin, if cleaned. Using different types of gun stocks results in different thicknesses. I have a lot of guns, which is why my apple pies have so much variety. I've never told my two bosses this secret.\n......\nStep 20: Bake in an oven for 25 minutes\nNote: There's no need to keep watching the oven while the pie bakes, but overbaking affects the texture, so plan your activities accordingly. Last time I took the chance to run a delivery from The Ends of the Earth to the slums and resolved a conflict between two small gangs, which was pretty much the limit.\n......\nStep 23: Pray, and tuck in!",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4187_graceb": {
+            "charID": "char_4187_graceb",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Gracebearer\n[Gender] Female\n[Combat Experience] 10 years\n[Place of Birth] Bolívar\n[Date of Birth] Feb 18\n[Race] Undisclosed\n[Height] 162cm\n[Infection Status]\nMedical tests have confirmed that no infection is present.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Standard\n[Mobility] Standard\n[Physical Resilience] Standard\n[Tactical Acumen] Standard\n[Combat Skill] Excellent\n[Originium Arts Assimilation] Standard",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "A nun from Bolívar who joined Rhodes Island at Sankta Miksaparato's recommendation. She has returned to Bolívar and serves as guard operator at the local branch.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Imaging tests reveal clear, normal outlines of internal organs, and no abnormal shadows have been detected. Originium granules have not been detected in the circulatory system and there is no sign of infection. At this time, this operator is believed to be uninfected.\n\n[Cell-Originium Assimilation] 0%\nOperator Gracebearer shows no signs of Originium infection.\n\n[Blood Originium-Crystal Density] 0.08u/L\nOperator Gracebearer shows strong awareness of Oripathy prevention, and has managed to stay uninfected despite spending considerable time in high-risk areas.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "On the subject of piety, the first person that Rhodes Island members think of is not someone from Laterano or Iberia, but Sister Nueda of the Bolívar office. She never breaks the rules, never gossips, and always appears by the side of the people who need her, asking nothing in return. Even when simply standing in a corner with her head bowed, others can sense her love and kindness, and receive strength and comfort from her presence.\nShe follows a strict schedule every day, going to bed at 11 p.m. and waking up at 6 a.m. no matter where she is. She prays nine times during the day, then a tenth time as she mutters in her sleep.\nSister Nueda's faith is highly respected, but it has also made people hesitant to approach her, other than listening to her sing in the Rhodes Island Choir.\nSome operators believe that, underneath the pious surface, there is a side to her that she does not let others see.\n\n[Audio Log]\nI had the pleasure to join Sister Nueda on a field mission. She cared for us meticulously, patted our heads after battle, and even told us bedtime stories. We're all very grateful to her... but... we're adults who can take care of ourselves.\n—Dobermann\n\nSister Nueda has a wonderful voice. Even the most mundane song becomes incredibly moving when sung by her. But her love for hymns borders on obsession. Ever since she came to Rhodes Island, she has been studying the musical styles of different countries, and uses them to make new hymn arrangements.\nHonestly, most of them aren't bad, but I'm still trying to figure out how she came up with the idea of <i>St. Ambrosius's Passion</i> in Yan's xiqu style...\n—Czerny, Rhodes Island Choir Organist\n\nSister Nueda?\nWhat about her? Did you assume we'd have spoken simply because we're of the same race?\nDoes it matter whether her story about a Gallic princess traveling to Sargon in search of wisdom is true or not?\nDid it ever occur to you that I might provide an even more ambiguous answer?\nAnd what of it? Just because the K'uk'ulkan have millennia of knowledge in our heads doesn't mean we have to treat it as our religion.\n—Ho'olheyak",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Post-Action Report]\nWe were ambushed while transporting medicine, and lost contact with Sister Nueda, who had gone deep behind enemy lines while assisting us. We were making urgent plans to rescue her when she stumbled into the office with blood all over her before passing out on the floor.\nFortunately, her injuries were not serious. When she woke up, she said that an armed group rescued her from the enemy camp and delivered her to the office. She left after a few days of rest to continue her journey. Later, we got news that the hostile encampment on the medicine transport route was captured by a Singas faction friendly to us, which we believed to be the group that rescued Sister Nueda.\nStrangely, no sooner had we sent a letter thanking them for the assistance that a letter arrived from that very group, thanking us for weakening the enemy forces and allowing them to capture the encampment with ease.\nIf there is an unknown faction in the area that is friendly to us, we would like to request an expert scout to help us locate them, as we could use all the allies we can get...\n\n[News Excerpt]\nA group of guerillas consisting of deserters, farmers, and mercenaries has been active in the hills east of our position. They do not have any permanent encampments, and the identity of their leader is unknown. No one knows why they're here. While most of the soldiers believe them to be a group of disorganized rabble, our limited combat records indicate that they are quite tactically proficient.\n—<i>True Bolívar Military Communique</i>\n\nIf we knew you could deal with it on your own, we wouldn't have needed to risk exposure. But I'm curious: how did you get those soldiers to turn on their own?\nAnd don't give me that crap about 'those who live by violence will die by violence'. You're responsible for the most violent situations I've seen in my life.\n—Letter from Sister Nueda's friend",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Interview Log]\nI began wandering Bolívar after my parents died. War, conflict, and dead bodies were always by my side.\nThe heritage of the K'uk'ulkan taught me how to survive on the battlefield, but life was hard. It made me an isolated child, always keeping silent and never interacting with others. Besides, I had no need for language with the vast repository of K'uk'ulkan knowledge at my disposal.\nI never spoke until the age of thirteen, when I saved a gravely injured Sankta nun. We had no interaction to speak of. She was completely disfigured beneath her bandages, yet she continued to sing her hymns calmly every day, with no hint of pain in her voice. Most people in that situation would have been unable to do anything but scream.\nThe calm and courage with which she faced her pain taught me how faith can help the soul pull through unimaginable suffering. That was when I began to dream about Laterano. I wanted to sing with her, but I was too stubborn, and only took up her melody after she had passed.\nBy the grace of God, that was the first time words came out of my mouth.\n—Column 'Faith in the Fires of War', <i>Laterano Weekly</i> Issue 12\n\n...Along with a group of war orphans, Sister Nueda arrived at a Holy City that had just emerged from a nightmare. Many were still missing, and the survivors had to face the complete collapse of the foundations of their faith. Many chose to end their lives with their guns, unwilling to accept the truth.\nSister Nueda was someone who had never known the beauty of the Holy City. People assumed she would turn around and leave, never speaking of faith or the Law again, but she stayed behind, walking amidst the rubble day after day, comforting all the broken souls who sought help, and guiding the lost back to the Law with the depth of her piety.\nAs the rebuilding of the Holy City progressed, and the wounded souls of its people began to recover, her contribution caught the Lateran Curia's attention. But rather than accept the cardinals' commendation, and despite the attempts of many to persuade her otherwise, she decided to leave Laterano and return to her war-torn homeland.\nWhen I asked why she stayed and why she left, she told me that a nun had planted the seed of faith and hope in her heart, and she was simply doing the same for the Holy City. Now that faith and hope have once again taken root here, she will plant those same seeds in a soil that is even more barren.\nShe believes that this is the revelation God had given her.\n—<i>Twelve Apostles From Afar and Their Lives</i>, Chapter 3, 'Seed of Faith'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "It is public knowledge that Sister Nueda has a close friend by the name of Aurela, whom she can hardly stop talking about. She describes Aurela as a brave, polite, and approachable Sankta paladin, but no one else had ever seen this 'Aurela'.\nIt was only when a young man who knew about Sister Nueda's past came to find her at the office that we learned the real Aurela was almost nothing like what she had described. Aurela was an intimidating figure who frightened the children of the monastery, and took delight in dealing with soldiers and bandits who invaded the monastery in the most cruel and brutal manner.\nSister Nueda, however, turned a blind eye to Aurela's brutality, and treated the Sankta not just as a close friend, but someone whom she could entrust the monastery to. The young man sighed and said, 'I think Sister Nueda deserves better friends.'\n'She doesn't need better friends. She needs the right friends. How's she supposed to protect you guys without a friend who knows how to fight?' A logistics operator patted the child's shoulder and left the room.\nThe operator in question had narrowly escaped death in battle half a month ago.\n\n[Private Letter]\nI've been dreaming about the time before I met you. I had to play the kind and gentle nun in front of the children, while dealing with invading soldiers out of their sight... The double life I led almost broke me.\nThen you came into my life, and took the burden of cruelty from me. Finally, there was someone who could carry my violent dark side.\nStay, Aurela. You won't have to hide your true nature in front of me. Who will accept you for who you are, besides me? Your mentor? Your husband?\nNo, I'm the only one. The more brutal you are, the more relieved I feel. I will not project any unreasonable expectations onto you. All I need is for you to be yourself.\n—Letter from Sister Nueda to Aurela written several years ago, imploring Aurela to stay at the monastery\n\n[Confidential Record]\nAurela was a Lateran gun-knight who fell after killing a colleague, and was exiled from the Holy City. She became a mercenary in Bolívar and was responsible for numerous assassinations and attacks. It is believed that she maintains ties to Laterano, and that they had planted her there to be their... Has a close relationship with Operator Gracebearer. Her motives are currently unknown, but it is possible that she may establish formal contact with us in the future. We should continue to monitor...\n—Operator Gracebearer's background report",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "'I never meant for you to see me like this, Doctor.' Her robes are soaked with blood. Her apologetic smile does little to mitigate the terror that her appearance inspires.\n'I warned you... but you came to find me anyway,' she sighs. 'How unfortunate. You're such a good person.'\nShe touches your cheeks with her hands, which are cold and sticky with blood. Darkness begins to fill her normally kind and compassionate eyes. You remember that her friend, Aurela, looked at you with the same cold gaze.\n'Keep this a secret, won't you, Doctor? Please?' Her fingers wrap around your skull like a predatory fowlbeast's claws. You cannot help but tremble.\n'Please don't look at me like that, Doctor.' She lets go and takes a couple of steps back.\nShe sees no fear in your eyes, only pity.\nIt terrifies her.",
+                            "unLockType": "AWAKE",
+                            "unLockParam": "2;1",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Promotion Record",
+                    "unLockorNot": true
+                }
+            ],
+            "handbookAvgList": []
+        },
+        "char_4198_christ": {
+            "charID": "char_4198_christ",
+            "infoName": "Unknown",
+            "storyTextAudio": [
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Code Name] Miss.Christine\n[Gender] Lady\n[Combat Experience] Unknown\n[Place of Birth] Unknown\n[Date of Birth] Unknown\n[Race] Undisclosed\n[Height] 35cm (sitting) 75cm (stretching, including tail, approximate)\n[Infection Status]\nWe were unable to perform imaging on Miss.Christine or obtain a blood sample. Warfarin eventually abandoned any attempt to track Miss.Christine's infection status.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Basic Info",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Physical Strength] Standard\n[Mobility] Standard\n[Physical Resilience] Standard\n[Tactical Acumen] Standard\n[Combat Skill] Standard\n[Originium Arts Assimilation] Flawed\n\nThe supervising operator reports that they were not sure whether they should test Miss.Christine at all, but the lady seemed to know what kind of data corresponds to what result, and completed every task with elegance.\nA Leithanian operator said she gave the impression of a top student intentionally keeping her scores low.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Physical Exam",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Miss.Christine is a beautiful creature who often appears by Phantom's side, and is suspected of being a Beast Aristocrat. The lady joined Rhodes Island of her own volition and currently has no assigned duties.",
+                            "unLockType": "DIRECT",
+                            "unLockParam": "",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Profile",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[SYSTEM ERROR]\nImaging unsuccessful.\n\n[Cell-Originium Assimilation] ?\nWe were unable to obtain any readings from Miss.Christine.\n\n[Blood Originium-Crystal Density] ?\nWe were unable to obtain any readings from Miss.Christine.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "25",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Clinical Analysis",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Everyone is curious why Miss.Christine suddenly joined Rhodes Island as an operator. The lady's answer was 'Meow.'\nThe HR operator who handled the application described the process to us with pride: the first time he received the application complete with paw-print, he thought it was a little joke; the second time, he thought she had brought it unintentionally, then a third, then a fourth... When he put the paw-printed application into a shredder for the seventh time, he swear he could hear the lady's voice in his head: 'This is my operator application.'\nThe operator thought he was hallucinating, until he asked Operator Phantom and received a definite answer: Yes, Miss.Christine can talk, and he was the first person aboard Rhodes Island to hear it. Although he and the Doctor were both reprimanded for not handling the onboarding process in accordance with regulations, he is extremely proud to be the 'first' in this case.\nLittle does he know that the <i>actual</i> first person aboard Rhodes Island to hear Miss.Christine talk was the Doctor.\n\nMiss.Christine becoming an operator only seems to raise more questions, however. Should we conduct the standard health examinations and tests, and how do we even do that?\nFor example, Warfarin was extremely interested in examining the lady and made numerous plans, only to find that the imaging equipment simply does not work on her, failing to produce any image whatsoever. This made the medics quite depressed, but then Miss.Christine showed up one night, jumping into the equipment, and golden illusions suddenly appeared on the black-and-white monitor, dancing like flower petals in the wind, turning into tiny Miss.Christines that ran and leapt around them.\nThe equipment did not record any data, and the medics forgot to take any photos in their shock, but all left that evening of wonder satisfied: they seemed to have touched a dream of science at the moment those golden shadows leapt out from the cold machinery.\n\nIn any case, Miss.Christine is now a Rhodes Island operator, assisting us in combat. The lady even has her own work badge, on which she is wearing a pretty red bowtie. Her sapphire eyes gleam brightly.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "50",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 1",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "[Rhodes Island Hospital Room Audio Log]\n'*Cough* *cough* It hurts...\n'A-Are you that Miss.Christine they were talking about? You look so beautiful, like a fairy from a picture book...'\n(Happy meowing)\n'Why are you rubbing yourself against me? Do you want me to pet you? They say you're fluffy and smooth like a cloudbeast. I've never pet a cloudbeast before...\n'But it hurts so much and I don't have the strength...'\n(Continuous purring)\n'You're rubbing against my neck? It's itchy... Wait, I thought you'd be fluffy like the blanket on me. My hand... my hand just went through you? It doesn't hurt anymore?\n'Is this some kind of magic? Wow...'\n(Door opens)\n'Miss.Christine? Where did you go?'\n......\n'I wasn't dreaming! Miss.Christine gave me her magic and I feel so much better now.'\n\nThe young patient told the nurse operator that her hand stopped hurting after it went through Miss.Christine, leading to much discussion amongst the operators. They began to realize that the lady seems to look and feel a little different from person to person, and strange, wondrous events often follow in her footsteps. Some began to hypothesize that she is the same sort of mysterious entity as Eyjafjalla's Mr. Dolly, Penguin Logistics' Emperor, and the jungle's High Priest.\nThere is plenty of circumstantial evidence to support this conjecture. For example, they seem to know each other quite well: Miss.Christine has been spotted riding a sheep bouncing up and down the stairs, and Emperor sometimes yells angrily about paw and hoof prints appearing on his vinyls, but never takes any action. Indeed, one of his records has the figure of Miss.Christine on the cover. The lady also seems to have a strange affinity with Lappland, allowing the latter to stroke her chin before leaving in satisfaction with her tails raised high. At other times, the lady has been spotted with her hair a disheveled mess, as though she had just gone through an explosion, while clawing and biting at a bright feather that looks strangely similar to High Priest's.\nAfter Engineering confirmed that the imaging equipment was working properly, we put one of the sheep to the test with Eyjafjalla's approval, and the equipment proved incapable of producing an image, as was the case with Miss.Christine.\nWhen we asked Operator Phantom about it, his answer was that he didn't know the answer, and that he has never asked the question. He said, 'We know each other well, and neither of us care what the other is.'\nMiss.Christine meowed in affirmation.",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "100",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 2",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Miss.Christine for Dummies (Revised Edition)\n1. Do not initiate contact with Miss.Christine. Hope for the lady to approach you, and accept her departure with grace. Taking out colorful bowties greatly increases the odds that she will initiate contact with you.\n2. Pay your proper respects to the beautiful lady, and she may deign to make a heart shape for you with her tails. Don't forget to take a photo of this rare occasion!\n3. Keep your mood complex, unusual, or mercurial.\n\nThese recommendations were originally passed around by word of mouth before being compiled and printed. The most important is the last one, as Miss.Christine has been noted to take an interest in different emotions.\nFor example, the more intense and complex an operator's reaction to a movie, the longer the lady will stay, only to immediately lose interest and leave the moment the operator becomes distracted.\nPatients have reported that she often shows up around the hospital rooms. When someone is in so much pain and despair that they want to die, Miss.Christine will suddenly appear by their side. Though they might be too weak to pet her, all they need to do is to gaze into the lady's blue eyes—and their despair vanishes. It feels as though her twin tails had swept the darkness away, leaving behind tears flowing from their eyes and the fragile hope that they will see the sun shine on them through the window again tomorrow.\nThis sudden change in mood that Miss.Christine brings about is difficult to describe: emotions that filled the heart a moment ago suddenly disappear, while suppressed feelings surge to the surface. It is as if the scales have been flipped, the result of which is still unknown.\nSome report coming to work full of novel ideas, only to see the figure of Miss.Christine and suddenly lose all motivation, sitting in their chairs with blank eyes until taken away by a supervisor. Others report that operators who were depressed and demoralized suddenly become filled with vigor after Miss.Christine rubs against them. However, when questioned later, the subjects themselves just scratched their head, yawned, and couldn't quite explain exactly what had happened.\n\nIt is still unclear why the lady brings such unusual reactions, but we will continue to update this guide to Miss.Christine, ensuring that she and our operators are able to get along comfortably.\nWhen we questioned the lady herself about these matters, her answer was, 'Meow.'",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "150",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 3",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Miss.Christine rarely actually talks, and we are seldom able to obtain any material information from her. When analyzing the route that Operator Phantom took in search of the 'Troupe Leader', HR operators found that there were often legends and rumors about black cats or black shadows along the way.\nA Sargonian black market trader told us that a black cat caused a prosperous kingdom to fall in little more than a decade, their lament that their god had abandoned them still echoing through the sands. A Leithanian noble took out a prohibited scroll and showed us how a blind, deaf, and mute composer 'Black Cat' had written in a single night a dark opus that could bring an entire city to despair. Columbian adventurers are still seeking a dark valley that absorbs the loneliness of travelers and transforms it into endless echoes. And there are rumors of a black vending machine on the streets of Higashi, which dispenses drinks that makes wishes come true in twisted way...\nMany mysterious, fantastical, and terrifying secrets surround Miss.Christine. There is no proof that these black cats and shadows of legend are the lady herself, but it is certain that her most prominent trait is that no one can tell what she's trying to do. As I wrote these words, I watched Miss.Christine pay no heed to the delectable meal that had been prepared for her, instead tucking into my packed lunch. The lady leaves her warm and comfortable bedding to sleep in cardboard boxes I have been too busy to discard, or on my keyboard, and occasionally leaves a flower on my desk.\nThe conclusion of my observations and records is that I have given up on trying to understand what Miss.Christine is thinking. In the face of such a presence, all we can do is to accept and record it. Perhaps the lady simply enjoys these sorts of games and activities in her long existence.\nWhat a mysterious, enduring creature.\n\nAs I finished this entry, Miss.Christine came around again, and after some thought gave her opinion: 'Meow.'\nFortunately, I had covered the middle paragraph with a piece of paper. Otherwise...\nOuch! She scratched me! Yes, I am SURE that she can read!",
+                            "unLockType": "FAVOR",
+                            "unLockParam": "200",
+                            "showType": "DIRECT",
+                            "showParam": "",
+                            "unLockString": "",
+                            "patchIdList": null
+                        }
+                    ],
+                    "storyTitle": "Archive File 4",
+                    "unLockorNot": true
+                },
+                {
+                    "stories": [
+                        {
+                            "storyText": "Bibeak has recently been asking operators with pets if their pet had escaped or gotten lost, as she has been finding small scratch marks on her door. She is usually so immersed in her design and tailor work that she does not hear sounds coming from outside the door, and would feel guilty if she failed to notice someone's stray pet trying to seek her help.\nNone of the operators reported anything unusual with their pets, but the scratch marks kept increasing by the day, until—\nShe put the bowtie on Miss.Christine's neck. Miss.Christine took a few satisfied spins in front of the mirror, made a heart shape with her twin tails, and left elegantly. The scratch marks stopped from that day forth.\nIt turns out that the scratches were not from a stray pet, but from a Miss.Christine who could not wait to see her newest attire.",
                             "unLockType": "AWAKE",
                             "unLockParam": "2;1",
                             "showType": "DIRECT",
@@ -65461,7 +66406,7 @@
             "code": "mem_phenxi_1",
             "name": "Afternoon Time",
             "loadingPicId": "loading_Laterano_Chocolate",
-            "description": "Fiammetta lives up to her Lataran roots when it comes to enjoying desserts. She rarely admits it, but partaking in a delicious soft serve is certainly the ideal way to spent a leisurely afternoon in Laterano.\nOf course, it would be even better if the target she's meant to supervise didn't get her into trouble, and the streets were free of unapproved explosions.\n<@lv.item><Exhaust Grille></> Operators deployed on this tile will not be targeted by enemy ranged attacks.\n<@lv.item><'Gelato Stop'></> Both allied and enemy units will fight for control over this device; When activated, restores SP of surrounding allies.",
+            "description": "Fiammetta lives up to her Lateran roots when it comes to enjoying desserts. She rarely admits it, but partaking in a delicious soft serve is certainly the ideal way to spent a leisurely afternoon in Laterano.\nOf course, it would be even better if the target she's meant to supervise didn't get her into trouble, and the streets were free of unapproved explosions.\n<@lv.item><Exhaust Grille></> Operators deployed on this tile will not be targeted by enemy ranged attacks.\n<@lv.item><'Gelato Stop'></> Both allied and enemy units will fight for control over this device; When activated, restores SP of surrounding allies.",
             "unlockParam": [
                 {
                     "unlockType": "AWAKE",
@@ -68399,7 +69344,7 @@
             "code": "mem_kalts_1",
             "name": "Specimen of Civilization",
             "loadingPicId": "loading_victoria",
-            "description": "She has seen the strongest powers on this land, the passing of time, the cycles of civilization, the corrosion of blades. Might wears down from inner conflict, while unparalleled power becomes the source of self-destruction.\nViolence cannot save a civilization on the verge of collapse, but what is truly lamentable is the fact that it is part of medical treatment.\nKal'tsit is an expert on the subject.\n<@lv.item><Exhaust Grilles> </>Operators deployed on it will not be targeted by enemy ranged attacks.",
+            "description": "She has seen the strongest powers on this land, the passing of time, the cycles of civilization, the corrosion of blades. Might wears down from inner conflict, while unparalleled power becomes the source of self-destruction.\nViolence cannot save a civilization on the verge of collapse, but what is truly lamentable is the fact that it is part of medical treatment.\nKal'tsit is an expert on the subject.\n<@lv.item><Exhaust Grilles></> Operators deployed on it will not be targeted by enemy ranged attacks.",
             "unlockParam": [
                 {
                     "unlockType": "AWAKE",
@@ -68494,6 +69439,58 @@
                 }
             ],
             "stageGetTime": 1758042000
+        },
+        "char_4173_nowell": {
+            "charId": "char_4173_nowell",
+            "stageId": "mem_nowell_1",
+            "levelId": "Obt/Memory/level_memory_nowell_1",
+            "zoneId": "storyMission",
+            "code": "mem_nowell_1",
+            "name": "Helping Hand",
+            "loadingPicId": "loading_LM_frost",
+            "description": "It is new territory for Nowell, not standing at the front and taking shots for others. The new challenge is a demanding one that requires attention and awareness, but he will get used to it.",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1760443200
+        },
+        "char_271_spikes": {
+            "charId": "char_271_spikes",
+            "stageId": "mem_spikes_1",
+            "levelId": "Obt/Memory/level_memory_spikes_1",
+            "zoneId": "storyMission",
+            "code": "mem_spikes_1",
+            "name": "No Escape",
+            "loadingPicId": "loading4",
+            "description": "Arene likes to stay in a corner, citing the dangers of his Arts. He cares little about the skeptical gazes of others, or their evasive attitudes. However, pique his curiosity, or worse, pick a fight with him, and woe be upon you... for keeping your distance will not save you then.",
+            "unlockParam": [
+                {
+                    "unlockType": "AWAKE",
+                    "unlockParam1": "2",
+                    "unlockParam2": "1",
+                    "unlockParam3": null
+                }
+            ],
+            "rewardItem": [
+                {
+                    "id": "4003",
+                    "count": 200,
+                    "type": "DIAMOND_SHD"
+                }
+            ],
+            "stageGetTime": 1760443200
         }
     },
     "handbookStageTime": [
@@ -69081,6 +70078,13 @@
                 "char_451_robin",
                 "char_211_adnach",
                 "char_187_ccheal"
+            ]
+        },
+        {
+            "timestamp": 1760443200,
+            "charSet": [
+                "char_4173_nowell",
+                "char_271_spikes"
             ]
         }
     ]

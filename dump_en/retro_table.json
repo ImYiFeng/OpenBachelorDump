@@ -4427,10 +4427,10 @@
                 "act25sre"
             ],
             "startTime": 1701774000,
-            "trailStartTime": -1,
+            "trailStartTime": 1762426800,
             "index": 5,
             "name": "Lone Trail",
-            "haveTrail": false,
+            "haveTrail": true,
             "customActId": "act25side",
             "customActType": "TYPE_ACT25SIDE"
         },
@@ -4770,10 +4770,10 @@
                 "act26sre"
             ],
             "startTime": 1736247600,
-            "trailStartTime": -1,
+            "trailStartTime": 1764846000,
             "index": 20,
             "name": "Hortus de Escapismo",
-            "haveTrail": false,
+            "haveTrail": true,
             "customActId": null,
             "customActType": "DEFAULT"
         },
@@ -27422,7 +27422,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-02",
@@ -27578,7 +27578,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-02#s",
@@ -27769,7 +27769,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-03",
@@ -27950,7 +27950,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-03#s",
@@ -28208,7 +28208,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-04",
@@ -28387,7 +28387,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-04#s",
@@ -28560,7 +28560,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-05",
@@ -28723,7 +28723,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-05#s",
@@ -28914,7 +28914,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-06",
@@ -29095,7 +29095,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-06#s",
@@ -29269,7 +29269,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-07",
@@ -29433,7 +29433,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-07#s",
@@ -29606,7 +29606,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-08",
@@ -29769,7 +29769,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-08#s",
@@ -29942,7 +29942,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-09",
@@ -30105,7 +30105,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-09#s",
@@ -30267,7 +30267,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-10",
@@ -30419,7 +30419,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-10#s",
@@ -30610,7 +30610,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-11",
@@ -30791,7 +30791,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-11#s",
@@ -30976,7 +30976,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-12",
@@ -31151,7 +31151,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-12#s",
@@ -31342,7 +31342,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-13",
@@ -31523,7 +31523,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-13#s",
@@ -31685,7 +31685,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-14",
@@ -31837,7 +31837,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-14#s",
@@ -32101,7 +32101,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-15",
@@ -32286,7 +32286,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-15#s",
@@ -32471,7 +32471,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-16",
@@ -32646,7 +32646,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-16#s",
@@ -32904,7 +32904,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-18",
@@ -33083,7 +33083,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "main_15-18#s",
@@ -33246,7 +33246,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": "HIGH_DIFFICULTY",
             "isStagePatch": false,
             "mainStageId": "st_15-03"
@@ -33320,7 +33320,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": "HIGH_DIFFICULTY",
             "isStagePatch": false,
             "mainStageId": "st_15-03"
@@ -33394,7 +33394,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": "HIGH_DIFFICULTY",
             "isStagePatch": false,
             "mainStageId": "st_15-03"
@@ -33468,7 +33468,7 @@
                     }
                 ]
             },
-            "canContinuousBattle": true,
+            "canMultipleBattle": true,
             "startButtonOverrideId": "HIGH_DIFFICULTY",
             "isStagePatch": false,
             "mainStageId": "st_15-03"
@@ -105241,6 +105241,2631 @@
             "startButtonOverrideId": null,
             "isStagePatch": false,
             "mainStageId": "act31side_s01"
+        },
+        "act34side_st01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_01-10",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_st01",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-ST-1",
+            "name": "Tide Watcher",
+            "description": "People dreamed wild dreams about the cities beneath the waves before they saw one with their own eyes.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_st01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_01",
+            "levelId": "Activities/act34side/level_act34side_01",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-1",
+            "name": "First Contact",
+            "description": "When they saw it for themselves, they understood that it was just another homeland to somebody, no matter how different it may seem.",
+            "hardStagedId": null,
+            "dangerLevel": "LV.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 8,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 8,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_tr01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_tr01",
+            "levelId": "Activities/act34side/level_act34side_tr01",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-TR-1",
+            "name": "Beacon Deployment Drill",
+            "description": "Learn how the Seaborn form carapaces and how to operate beacons.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": false,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": -1,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": true,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "TRAINING",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_tr01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_02",
+            "levelId": "Activities/act34side/level_act34side_02",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-2",
+            "name": "Tribunal Welcome",
+            "description": "People look for the familiar in those whom they have not seen for a while, forgetting the existence of time.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": null,
+            "dangerLevel": "LV.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 9,
+            "apFailReturn": 8,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 90,
+            "goldGain": 90,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 8,
+            "completeFavor": 9,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "USUAL",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_03",
+            "levelId": "Activities/act34side/level_act34side_03",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-3",
+            "name": "Like the Marine Snow",
+            "description": "When the blood of our brethren and the flesh of the Seaborn become mixed in the water, only our will keeps us human.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 1 Lv.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 11,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 11,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_04",
+            "levelId": "Activities/act34side/level_act34side_04",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-4",
+            "name": "Price and Sacrifice",
+            "description": "A life given willingly is a sacrifice; a live given unwillingly is a price. Both are burdens to bear for the one who ordered them.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 1 Lv.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 12,
+            "apFailReturn": 11,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 120,
+            "goldGain": 120,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 11,
+            "completeFavor": 12,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "GOLD",
+                        "id": "4001",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "GOLD",
+                        "id": "4001",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "CARD_EXP",
+                        "id": "2001",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_05",
+            "levelId": "Activities/act34side/level_act34side_05",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-5",
+            "name": "Lethal Fate",
+            "description": "The Ægir had forgotten the concept of fate, but must face theirs when matters spiral out of control.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 1 Lv.30",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 20,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "31064",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31064",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30011",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30061",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30012",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30062",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30013",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30063",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30073",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31013",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31053",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "3003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_06",
+            "levelId": "Activities/act34side/level_act34side_06",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-6",
+            "name": "Anathema of Ægir",
+            "description": "What 'Ægir' represents has never been justice, but the dignity of humanity.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Little Handy></> Removes <Excrescent Carapace> and <Nethersea Brand>",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 1 Lv.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 20,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30064",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30063",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30064",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30021",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30041",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2001",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30022",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30042",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2002",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30023",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30043",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30083",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31023",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31043",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "CARD_EXP",
+                        "id": "2003",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_st02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_st02",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-ST-2",
+            "name": "Backflow Current",
+            "description": "The children of the sea proliferate through the city. They will not permit any place in the sea that does not belong to the sea.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_st02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_07",
+            "levelId": "Activities/act34side/level_act34side_07",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-7",
+            "name": "From History",
+            "description": "And so the forefather passed into history, from whence came the Seaborn, and for the first time his teachings were understood.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 2 Lv.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 21,
+            "apFailReturn": 20,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 210,
+            "goldGain": 210,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 20,
+            "completeFavor": 21,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "MATERIAL",
+                        "id": "30103",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "type": "MATERIAL",
+                        "id": "30104",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30103",
+                        "dropType": "NORMAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30104",
+                        "dropType": "SPECIAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30031",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "OFTEN",
+                        "type": "MATERIAL",
+                        "id": "30051",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30032",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30052",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30033",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30053",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30093",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31033",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "30103",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "SOMETIMES",
+                        "type": "MATERIAL",
+                        "id": "31063",
+                        "dropType": "ADDITIONAL"
+                    },
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_08",
+            "levelId": "Activities/act34side/level_act34side_08",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-8",
+            "name": "What is Survival?",
+            "description": "Is it the survival of life, or of civilization?\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": null,
+            "dangerLevel": "Elite 2 Lv.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_09": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_08",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_09",
+            "levelId": "Activities/act34side/level_act34side_09",
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-9",
+            "name": "Fortress of Civilization",
+            "description": "Without walls and barriers, there can be no civilization.\n<@lv.fs>The Seaborn come! Legionnaires, meet them!\nLaugh their siege to scorn, and beat them back home!</>",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_st03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_09",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_st03",
+            "levelId": null,
+            "zoneId": "permanent_sidestory_26_zone1",
+            "code": "BP-ST-3",
+            "name": "The Stray and the Companion",
+            "description": "Kindred spirits tread divergent paths; adversaries walk together.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 0,
+            "apFailReturn": 0,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 0,
+            "dailyStageDifficulty": 0,
+            "expGain": 0,
+            "goldGain": 0,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 0,
+            "completeFavor": 0,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": true,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_st01"
+        },
+        "act34side_ex01": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_st03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex01",
+            "levelId": "Activities/act34side/level_act34side_ex01",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-1",
+            "name": "Pillar of Shame - Meaningless Conflict",
+            "description": "Every civilization must walk the path of chaos and conflict, no matter how advanced. The Ægir have simply realized the futility of conflict, while remembering the price.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": "act34side_ex01#f#",
+            "dangerLevel": "Elite 1 Lv.50",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex01#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex01",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex01#f#",
+            "levelId": "Activities/act34side/level_act34side_ex01",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-1",
+            "name": "Pillar of Shame - Meaningless Conflict",
+            "description": "<@lv.fs>Condition:</>\nMore enemies will appear.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex02": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex01",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex02",
+            "levelId": "Activities/act34side/level_act34side_ex02",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-2",
+            "name": "Memorial Altar - Pax Ægir",
+            "description": "The Ægir have come to a consensus that the wealth of resources they possess should be used for the growth of civilization, rather than its destruction.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": "act34side_ex02#f#",
+            "dangerLevel": "Elite 1 Lv.60",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex02#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex02",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex02#f#",
+            "levelId": "Activities/act34side/level_act34side_ex02",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-2",
+            "name": "Memorial Altar - Pax Ægir",
+            "description": "<@lv.fs>Condition:</>\nAllotropic Nurses have increased ASPD, Movement Speed, and HP.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 10,
+            "apFailReturn": 9,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 100,
+            "goldGain": 100,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 9,
+            "completeFavor": 10,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex03": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex02",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex03",
+            "levelId": "Activities/act34side/level_act34side_ex03",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-3",
+            "name": "Great Bathhouse - Where Wisdoms Meet",
+            "description": "The Ægir thirst for creation and consider it their natural duty to engage in creative activities. They are always engaged in a clash of ideas, even while bathing.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": "act34side_ex03#f#",
+            "dangerLevel": "Elite 2 Lv.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex03#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex03",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex03#f#",
+            "levelId": "Activities/act34side/level_act34side_ex03",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-3",
+            "name": "Great Bathhouse - Where Wisdoms Meet",
+            "description": "<@lv.fs>Condition:</>\nDifferent enemies will appear.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex04": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex03",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex04",
+            "levelId": "Activities/act34side/level_act34side_ex04",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-4",
+            "name": "Lava Bridge - Mantle's Pulse",
+            "description": "Every generation of Ægir keeps digging downwards in search of the relics of prehistory, and pumping out the planet's boiling blood from the mantle in the process.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": "act34side_ex04#f#",
+            "dangerLevel": "Elite 2 Lv.1",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex04#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex04",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex04#f#",
+            "levelId": "Activities/act34side/level_act34side_ex04",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-4",
+            "name": "Lava Bridge - Mantle's Pulse",
+            "description": "<@lv.fs>Condition:</>\nMore enemies will appear.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex05": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex04",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex05",
+            "levelId": "Activities/act34side/level_act34side_ex05",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-5",
+            "name": "Aquatic Artery Hub - Fountain of Currents",
+            "description": "The Aquatic Artery Hub was created to rectify the disruption of ocean currents caused by overdevelopment, and, on occasion, to hold fountain shows.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": "act34side_ex05#f#",
+            "dangerLevel": "Elite 2 Lv.10",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex05#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex05",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex05#f#",
+            "levelId": "Activities/act34side/level_act34side_ex05",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-5",
+            "name": "Aquatic Artery Hub - Fountain of Currents",
+            "description": "<@lv.fs>Condition:</>\nFewer starting Excrescent Carapaces.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex06": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex05",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex06",
+            "levelId": "Activities/act34side/level_act34side_ex06",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-6",
+            "name": "Survey Station - Gate of Conundrum",
+            "description": "The Ægir have never stopped sending probes onto land, but what they found was not resources, but puzzles waiting to be solved on this planet.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></>Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": "act34side_ex06#f#",
+            "dangerLevel": "Elite 2 Lv.20",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex06#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex06",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex06#f#",
+            "levelId": "Activities/act34side/level_act34side_ex06",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-6",
+            "name": "Survey Station - Gate of Conundrum",
+            "description": "<@lv.fs>Condition:</>\n'The Cursed' has increased ATK and HP.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 15,
+            "apFailReturn": 14,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 150,
+            "goldGain": 150,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 14,
+            "completeFavor": 15,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex07": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex06",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex07",
+            "levelId": "Activities/act34side/level_act34side_ex07",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-7",
+            "name": "Gene Bank - Hall of Everything",
+            "description": "The Seaborn are the second species to engage in the modification of other organisms after humankind. Perhaps 'ecological protection' is just a battle over the definition of life.\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.\n<@lv.item><Waterway Beacon></> Must be charged by a High Ground Operator; allows your units to deal Burn damage when activated.",
+            "hardStagedId": "act34side_ex07#f#",
+            "dangerLevel": "Elite 2 Lv.35",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 19,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 19,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex07#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex07",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex07#f#",
+            "levelId": "Activities/act34side/level_act34side_ex07",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-7",
+            "name": "Gene Bank - Hall of Everything",
+            "description": "<@lv.fs>Condition:</>\n1 tile on the battlefield is no longer available for deployment.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_square",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 19,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 19,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex08": {
+            "stageType": "ACTIVITY",
+            "difficulty": "NORMAL",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "act34side_ex07",
+                    "completeState": "PASS"
+                }
+            ],
+            "stageId": "act34side_ex08",
+            "levelId": "Activities/act34side/level_act34side_ex08",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-8",
+            "name": "Mártus's Sophontheatrum",
+            "description": "Mártus was always measuring, always pondering. Did he ever imagine, as he walked through his Sophontheatrum, that he would one day be the judge of all life?\n<@lv.item><Excrescent Carapace></> Deployable for High Ground Operators.",
+            "hardStagedId": "act34side_ex08#f#",
+            "dangerLevel": "Elite 2 Lv.40",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": true,
+            "apCost": 20,
+            "apFailReturn": 19,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 1,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 1,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 19,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
+        },
+        "act34side_ex08#f#": {
+            "stageType": "ACTIVITY",
+            "difficulty": "FOUR_STAR",
+            "performanceStageFlag": "NORMAL_STAGE",
+            "diffGroup": "NONE",
+            "unlockCondition": [
+                {
+                    "stageId": "main_02-08",
+                    "completeState": "PASS"
+                },
+                {
+                    "stageId": "act34side_ex08",
+                    "completeState": "COMPLETE"
+                }
+            ],
+            "stageId": "act34side_ex08#f#",
+            "levelId": "Activities/act34side/level_act34side_ex08",
+            "zoneId": "permanent_sidestory_26_zone2",
+            "code": "BP-EX-8",
+            "name": "Mártus's Sophontheatrum",
+            "description": "<@lv.fs>Condition:</>\nNervous Impairment from Mártus, Seaborn's [Guided Evolution] is greatly increased, and [Humanity's Bane] is released more frequently.",
+            "hardStagedId": null,
+            "dangerLevel": "-",
+            "dangerPoint": -1.0,
+            "loadingPicId": "loading_PL_nest",
+            "canPractice": true,
+            "canBattleReplay": false,
+            "apCost": 20,
+            "apFailReturn": 19,
+            "etItemId": "",
+            "etCost": 0,
+            "etFailReturn": 0,
+            "etButtonStyle": null,
+            "apProtectTimes": 0,
+            "diamondOnceDrop": 1,
+            "practiceTicketCost": 3,
+            "dailyStageDifficulty": 0,
+            "expGain": 200,
+            "goldGain": 200,
+            "loseExpGain": 0,
+            "loseGoldGain": 0,
+            "passFavor": 19,
+            "completeFavor": 20,
+            "slProgress": 0,
+            "displayMainItem": null,
+            "hilightMark": false,
+            "bossMark": false,
+            "isPredefined": false,
+            "isHardPredefined": false,
+            "isSkillSelectablePredefined": false,
+            "isStoryOnly": false,
+            "appearanceStyle": "MAIN_NORMAL",
+            "stageDropInfo": {
+                "firstPassRewards": null,
+                "firstCompleteRewards": null,
+                "passRewards": null,
+                "completeRewards": null,
+                "displayRewards": [
+                    {
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ],
+                "displayDetailRewards": [
+                    {
+                        "occPercent": "ALWAYS",
+                        "type": "DIAMOND",
+                        "id": "4002",
+                        "dropType": "COMPLETE"
+                    }
+                ]
+            },
+            "startButtonOverrideId": null,
+            "isStagePatch": false,
+            "mainStageId": "act34side_ex01"
         }
     },
     "ruleData": {

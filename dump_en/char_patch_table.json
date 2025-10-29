@@ -13,6 +13,7 @@
         "char_1001_amiya2": {
             "name": "Amiya",
             "description": "Deals <@ba.kw>Arts damage</>",
+            "sortIndex": 0,
             "canUseGeneralPotentialItem": false,
             "canUseActivityPotentialItem": false,
             "potentialItemId": "p_char_002_amiya",
@@ -20,6 +21,18 @@
             "nationId": "rhodes",
             "groupId": null,
             "teamId": null,
+            "mainPower": {
+                "nationId": "rhodes",
+                "groupId": null,
+                "teamId": null
+            },
+            "subPower": [
+                {
+                    "nationId": "rim",
+                    "groupId": null,
+                    "teamId": null
+                }
+            ],
             "displayNumber": "R001",
             "appellation": " ",
             "position": "MELEE",
@@ -69,7 +82,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -98,7 +113,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -135,7 +152,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -164,7 +183,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -217,7 +238,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -246,7 +269,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -637,7 +662,9 @@
                         "frozenImmune": false,
                         "levitateImmune": false,
                         "disarmedCombatImmune": false,
-                        "fearedImmune": false
+                        "fearedImmune": false,
+                        "palsyImmune": false,
+                        "attractImmune": false
                     }
                 },
                 {
@@ -666,7 +693,9 @@
                         "frozenImmune": false,
                         "levitateImmune": false,
                         "disarmedCombatImmune": false,
-                        "fearedImmune": false
+                        "fearedImmune": false,
+                        "palsyImmune": false,
+                        "attractImmune": false
                     }
                 }
             ],
@@ -786,6 +815,7 @@
         "char_1037_amiya3": {
             "name": "Amiya",
             "description": "Attacks deal Arts damage and heal the HP of an ally within Attack Range for 50% of the damage dealt",
+            "sortIndex": 0,
             "canUseGeneralPotentialItem": false,
             "canUseActivityPotentialItem": false,
             "potentialItemId": "p_char_002_amiya",
@@ -793,6 +823,18 @@
             "nationId": "rhodes",
             "groupId": null,
             "teamId": null,
+            "mainPower": {
+                "nationId": "rhodes",
+                "groupId": null,
+                "teamId": null
+            },
+            "subPower": [
+                {
+                    "nationId": "rim",
+                    "groupId": null,
+                    "teamId": null
+                }
+            ],
             "displayNumber": "R001",
             "appellation": " ",
             "position": "RANGED",
@@ -863,7 +905,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -892,7 +936,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -929,7 +975,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -958,7 +1006,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -1011,7 +1061,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         },
                         {
@@ -1040,7 +1092,9 @@
                                 "frozenImmune": false,
                                 "levitateImmune": false,
                                 "disarmedCombatImmune": false,
-                                "fearedImmune": false
+                                "fearedImmune": false,
+                                "palsyImmune": false,
+                                "attractImmune": false
                             }
                         }
                     ],
@@ -1431,7 +1485,9 @@
                         "frozenImmune": false,
                         "levitateImmune": false,
                         "disarmedCombatImmune": false,
-                        "fearedImmune": false
+                        "fearedImmune": false,
+                        "palsyImmune": false,
+                        "attractImmune": false
                     }
                 },
                 {
@@ -1460,7 +1516,9 @@
                         "frozenImmune": false,
                         "levitateImmune": false,
                         "disarmedCombatImmune": false,
-                        "fearedImmune": false
+                        "fearedImmune": false,
+                        "palsyImmune": false,
+                        "attractImmune": false
                     }
                 }
             ],
